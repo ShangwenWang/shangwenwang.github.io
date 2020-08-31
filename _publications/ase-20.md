@@ -2,7 +2,7 @@
 title: "Automated Patch Correctness Assessment: How Far are We?"
 collection: publications
 permalink: /publication/ase-20
-excerpt: 'Author list: Shangwen Wang.'
+excerpt: 'Author list: **Shangwen Wang**.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://shangwenwang.github.io/files/ASE-20.pdf'
