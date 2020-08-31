@@ -85,7 +85,7 @@ author:
   bio              : "A Ph.D student at National University of Defense Technology, who majors in program repair, software testing, and mining software repositories."
   location         : "Changsha, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gPIngo4AAAAJ&hl=zh-CN&scioq=shangwen+wang"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Shangwen_Wang"
