@@ -8,6 +8,6 @@ venue: 'Proceedings of the 35th IEEE/ACM International Conference on Automated S
 paperurl: 'http://shangwenwang.github.io/files/ASE-20.pdf'
 ---
 
-Author list: **Shangwen Wang**, Ming Wen, Bo Lin, Hongjun Wu, Yihao Qin, Deqing Zou, Xiaoguang Mao, Hai Jin.
-
 [Download paper here](http://shangwenwang.github.io/files/ASE-20.pdf)
+
+Author list: **Shangwen Wang**, Ming Wen, Bo Lin, Hongjun Wu, Yihao Qin, Deqing Zou, Xiaoguang Mao, Hai Jin.
