@@ -1,7 +1,7 @@
 ---
 title: "Automated Patch Correctness Assessment: How Far are We?"
 collection: publications
-permalink: /publication/2020-07-31-ASE-20
+permalink: /publication/2020-07-31-Automated-Patch-Correctness-Assessment:-How-Far-are-We?.md
 excerpt: 'Accepted in the technical track of ASE'20 (CCF-A)'
 date: 2020-07-31
 venue: 'In Proceedings of the 35th International Conference on Automated Software Engineering'
