@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* National University of Defense Technology, 2017.9 - 2019.12
+  * MA.Sc, Software Engineering, Supervised by Prof. Xiaoguang Mao
+  * Master Thesis: An Empirical Study on the Bias in the Evaluation of Automated Program Repair 
+
+* National University of Defense Technology, 2013.9 - 2017.6
+  * B.A., Software Engineering
 
 Work experience
 ======
