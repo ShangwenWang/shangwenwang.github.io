@@ -2,15 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Services"
-    url: /services/    
-
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Honors"
-    url: /honor/
     
   - title: "CV"
     url: /cv/
