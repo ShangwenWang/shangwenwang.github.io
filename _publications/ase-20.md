@@ -1,15 +1,15 @@
 ---
-title: "Automated Patch Correctness Assessment: How Far are We?"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/ase-20
-excerpt: 'This is a test.'
-date: 2020-07-31
-venue: 'Proceedings of the 35th International Conference on Automated Software Engineering (ASE'20, CCF-A)'
-paperurl: 'http://shangwenwang.github.io/files/ASE-20.pdf'
-citation: 'Your Name, You. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://shangwenwang.github.io/files/ASE-20.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2020). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
