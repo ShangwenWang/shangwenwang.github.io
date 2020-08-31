@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Shangwen Wang's (王尚文) homepage. Currently, I am a Ph.D student at National University of Defense Technology. I have obtained my bachelor degree and master degree from NUDT at June, 2017 and December, 2019, respectively. During my master study, I was honored to be supervised by Prof. Xiaoguang Mao. My research interests mainly focus on program repair, software testing, and mining software repositories. Recently, I begin to use deep learning techniques for solving software engineering problems.
+Welcome to Shangwen Wang's (王尚文) homepage!
+
+Currently, I am a Ph.D student at National University of Defense Technology. I have obtained my bachelor degree and master degree from NUDT at June, 2017 and December, 2019, respectively. During my master study, I was honored to be supervised by Prof. Xiaoguang Mao. My research interests mainly focus on program repair, software testing, and mining software repositories. Recently, I begin to use deep learning techniques for solving software engineering problems.
+
+I am happy to establish solid cooperation relations with outstanding researchers within my field, such as [Ming Wen](http://justinwm.github.io/) from Huahzong University of Science and Technology, [Kui Liu](https://brucekuiliu.github.io/) from Nanjing University of Aeronautics and Astronautics, and [Tegawendé F. Bissyandé](http://bissyande.github.io) from University of Luxembourg. For our works, please refer to the Publication page.
 
 * NEWS!  
   * One recent work has been submitted to [ICSE-2021](https://conf.researchr.org/home/icse-2021) (08/2020). Good luck!
