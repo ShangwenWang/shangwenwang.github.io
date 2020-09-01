@@ -17,14 +17,6 @@ Education
 
 * National University of Defense Technology, 2013.9 - 2017.6
   * B.A., Software Engineering
-
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
   
 Teaching
