@@ -1,0 +1,9 @@
+@inproceedings{liu2020eficiency, 
+  title={On the Efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs}, 
+  author={Liu, Kui and Wang, Shangwen and Koyuncu, Anil and Bissyand{\'e}, Tegawend{\'e} F. and Kim, Dongsun and Wu, Peng and Klein, Jacques and Mao, Xiaoguang and Le Traon, Yves},
+  booktitle={Proceedings of the 42nd International Conference on Software Engineering},
+  year={2020},
+  pages={615--627},
+  doi={10.1145/3377811.3380338},
+  organization={ACM},
+}
