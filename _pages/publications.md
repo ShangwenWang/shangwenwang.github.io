@@ -27,3 +27,10 @@ ESEM'19
 in *Proceedings of the 13th International Symposium on Empirical Software Engineering and Measurement*, Porto de Galinhas, Brazil (ESEM'19, **CCF-B**).
 **[Acceptance rate: 19.8% (23/116)]**
 [[PDF]](http://shangwenwang.github.io/files/ESEM-19.pdf)  [[bib]](http://shangwenwang.github.io/files/ESEM-19.txt)
+
+ICSR'18
+======
+**Shangwen Wang**, Tao Wang, Xiaoguang Mao, Yue Yu, and Gang Yin.
+**A Hybrid Approach for Tag Hierarchy Construction**
+in *Proceedings of the 17th International Conference on Software Reuse*, Madrid, Spain (ICSR'18, CCF-C).
+[[PDF]](http://shangwenwang.github.io/files/ICSR-18.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSR-18.txt)
