@@ -1,0 +1,8 @@
+@inproceedings{wang2018hybrid,
+  title={A hybrid approach for tag hierarchy construction},
+  author={Wang, Shangwen and Wang, Tao and Mao, Xiaoguang and Yin, Gang and Yu, Yue},
+  booktitle={International Conference on Software Reuse},
+  pages={59--75},
+  year={2018},
+  organization={Springer}
+}
