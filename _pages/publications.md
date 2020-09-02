@@ -28,6 +28,20 @@ in *Proceedings of the 13th International Symposium on Empirical Software Engine
 **[Acceptance rate: 19.8% (23/116)]**
 [[PDF]](http://shangwenwang.github.io/files/ESEM-19.pdf)  [[bib]](http://shangwenwang.github.io/files/ESEM-19.txt)
 
+EASE'19
+======
+**Shangwen Wang**, Ming Wen, Xiaoguang Mao, Deheng Yang.
+**Attention Please: Consider Mockito when Evaluating Newly Proposed Automtaed Program Repair Techniques**
+in *Proceedings of the 23rd Evaluation and Assessment in Software Engineering*, Short Paper, Copenhagen, Denmark (EASE'19, CCF-C).
+[[PDF]](http://shangwenwang.github.io/files/EASE-19.pdf)  [[bib]](http://shangwenwang.github.io/files/EASE-19.txt)
+
+ICSME'18
+======
+Anbang Guo, Xiaoguang Mao, Deheng Yang, **Shangwen Wang**.
+**An Empirical Study on the Effect of Dynamic Slicing on Automated Program Repair Efficiency**
+in *Proceedings of the 34th International Conference on Software Maintainess and Evolution*, Short Paper, Madrid, Spain (ICSME'18, **CCF-B**)
+[[PDF]](http://shangwenwang.github.io/files/ICSME-18.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSME-18.txt)
+
 ICSR'18
 ======
 **Shangwen Wang**, Tao Wang, Xiaoguang Mao, Yue Yu, and Gang Yin.
