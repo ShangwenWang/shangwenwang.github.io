@@ -1,0 +1,7 @@
+@inproceedings{guo2018empirical,
+  title={An Empirical Study on the Effect of Dynamic Slicing on Automated Program Repair Efficiency},
+  author={Guo, Anbang and Mao, Xiaoguang and Yang, Deheng and Wang, Shangwen},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={554--558},
+  year={2018},
+}
