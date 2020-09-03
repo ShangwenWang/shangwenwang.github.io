@@ -10,7 +10,7 @@ ASE'20
 **Automated Patch Correctness Assessment: How Far are We?**
 in *Proceedings of the 35th International Conference on Automated Software Engineering*, Melbourne, Australia (ASE'20, **CCF-A**).
 **[Acceptance rate: 22.5% (93/414)]**
-[[PDF]](http://shangwenwang.github.io/files/ASE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3730599)
+[[PDF]](http://shangwenwang.github.io/files/ASE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ASE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3730599)
 
 ICSE'20
 ======
