@@ -14,7 +14,7 @@ in *Proceedings of the 35th International Conference on Automated Software Engin
 
 ICSE'20
 ======
-Kui Liu, **Shangwen Wang**, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon.
+Kui Liu, **Shangwen Wang**<sup>*</sup>, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon (<sup>*</sup> Co-first and Corresponding author).
 **On the efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs**
 in *Proceedings of the 42nd International Conference on Software Engineering*, Seoul, South Korea (ICSE'20, **CCF-A**).
 **[Acceptance rate: 20.9% (129/617)]**
