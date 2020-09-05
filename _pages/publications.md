@@ -10,15 +10,15 @@ ASE'20
 **Automated Patch Correctness Assessment: How Far are We?**
 in *Proceedings of the 35th International Conference on Automated Software Engineering*, Melbourne, Australia (ASE'20, **CCF-A**).
 **[Acceptance rate: 22.5% (93/414)]**
-[[PDF]](http://shangwenwang.github.io/files/ASE-20.pdf)  [[bib]]()
+[[PDF]](http://shangwenwang.github.io/files/ASE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ASE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3730599)
 
 ICSE'20
 ======
-Kui Liu, **Shangwen Wang**, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon.
+Kui Liu, **Shangwen Wang<sup>*</sup>**, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon (<sup>*</sup>Co-first and Corresponding author).
 **On the efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs**
 in *Proceedings of the 42nd International Conference on Software Engineering*, Seoul, South Korea (ICSE'20, **CCF-A**).
 **[Acceptance rate: 20.9% (129/617)]**
-[[PDF]](http://shangwenwang.github.io/files/ICSE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSE-20.txt)
+[[PDF]](http://shangwenwang.github.io/files/ICSE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3678960)
 
 ESEM'19
 ======
@@ -27,6 +27,20 @@ ESEM'19
 in *Proceedings of the 13th International Symposium on Empirical Software Engineering and Measurement*, Porto de Galinhas, Brazil (ESEM'19, **CCF-B**).
 **[Acceptance rate: 19.8% (23/116)]**
 [[PDF]](http://shangwenwang.github.io/files/ESEM-19.pdf)  [[bib]](http://shangwenwang.github.io/files/ESEM-19.txt)
+
+EASE'19
+======
+**Shangwen Wang**, Ming Wen, Xiaoguang Mao, Deheng Yang.
+**Attention Please: Consider Mockito when Evaluating Newly Proposed Automtaed Program Repair Techniques**
+in *Proceedings of the 23rd Evaluation and Assessment in Software Engineering*, Short Paper, Copenhagen, Denmark (EASE'19, CCF-C).
+[[PDF]](http://shangwenwang.github.io/files/EASE-19.pdf)  [[bib]](http://shangwenwang.github.io/files/EASE-19.txt)
+
+ICSME'18
+======
+Anbang Guo, Xiaoguang Mao, Deheng Yang, **Shangwen Wang**.
+**An Empirical Study on the Effect of Dynamic Slicing on Automated Program Repair Efficiency**
+in *Proceedings of the 34th International Conference on Software Maintainess and Evolution*, Short Paper, Madrid, Spain (ICSME'18, **CCF-B**)
+[[PDF]](http://shangwenwang.github.io/files/ICSME-18.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSME-18.txt)
 
 ICSR'18
 ======

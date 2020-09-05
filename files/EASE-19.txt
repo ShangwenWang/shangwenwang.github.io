@@ -1,0 +1,8 @@
+@inproceedings{wang2019attention,
+  title={Attention please: Consider Mockito when evaluating newly proposed automated program repair techniques},
+  author={Wang, Shangwen and Wen, Ming and Mao, Xiaoguang and Yang, Deheng},
+  booktitle={Proceedings of the 23rd Evaluation and Assessment on Software Engineering},
+  pages={260--266},
+  year={2019},
+  organization={ACM}
+}
