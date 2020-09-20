@@ -15,5 +15,6 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 I am happy to establish solid cooperation relations with outstanding researchers within my field, such as [Ming Wen](http://justinwm.github.io/) from Huahzong University of Science and Technology, [Kui Liu](https://brucekuiliu.github.io/) from Nanjing University of Aeronautics and Astronautics, and [Tegawendé F. Bissyandé](http://bissyande.github.io) from University of Luxembourg. For our works, please refer to the Publication page.
 
 * NEWS!  
+  * Two works have been accepted by [APSEC'20](https://formal-analysis.com/apsec/2020/) (09/2020).
   * One recent work has been submitted to [ICSE-2021](https://conf.researchr.org/home/icse-2021) (08/2020). Good luck!
   * Our work on patch overfitting has been accepted by [ASE'20](https://conf.researchr.org/home/ase-2020) (07/2020). Good job!
