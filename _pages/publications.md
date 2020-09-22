@@ -6,7 +6,7 @@ author_profile: true
 
 APSEC'20 A
 =====
-Bo Lin, **Shangwen Wang<sup>*</sup>**, Ming Wen, Zhang Zhang, Hongjun Wu, Yihao Qin, and Xiaoguang Mao (<sup>#</sup>Corresponding author).
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Zhang Zhang, Hongjun Wu, Yihao Qin, and Xiaoguang Mao (<sup>#</sup>Corresponding author).
 **Understanding the Non-Repairability Factors of Automated Program Repair Techniques**
 in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
 [[PDF]]()  [[bib]]()
