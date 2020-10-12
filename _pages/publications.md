@@ -4,6 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+APSEC'20 A
+=====
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Zhang Zhang, Hongjun Wu, Yihao Qin, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Understanding the Non-Repairability Factors of Automated Program Repair Techniques**
+in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
+[[PDF]]()  [[bib]]()
+
+APSEC'20 B
+=====
+Zhang Zhang, Xinjun Mao, Yao Lu, **Shangwen Wang**, Jinyu Lu.
+**An Empirical Study on the Influence of Social Interactions for the Acceptance of Answers in Stack Overflow**
+in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
+[[PDF]]()  [[bib]]()
+
 ASE'20
 ======
 **Shangwen Wang**, Ming Wen, Bo Lin, Hongjun Wu, Yihao Qin, Deqing Zou, Xiaoguang Mao, and Hai Jin.
@@ -14,7 +28,7 @@ in *Proceedings of the 35th International Conference on Automated Software Engin
 
 ICSE'20
 ======
-Kui Liu, **Shangwen Wang<sup>*</sup>**, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon (<sup>*</sup>Co-first and Corresponding author).
+Kui Liu, **Shangwen Wang<sup>\*</sup>**, Anil Koyuncu, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon (<sup>\*</sup>Co-first author and Corresponding author).
 **On the efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs**
 in *Proceedings of the 42nd International Conference on Software Engineering*, Seoul, South Korea (ICSE'20, **CCF-A**).
 **[Acceptance rate: 20.9% (129/617)]**
