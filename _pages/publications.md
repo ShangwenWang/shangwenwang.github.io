@@ -15,7 +15,7 @@ in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singa
 
 ##APSEC'20 B
 =====
-Zhang Zhang, Xinjun Mao, Yao Lu, **Shangwen Wang**, Jinyu Lu.
+Zhang Zhang, Xinjun Mao, Yao Lu, **Shangwen Wang**, and Jinyu Lu.
 **An Empirical Study on the Influence of Social Interactions for the Acceptance of Answers in Stack Overflow**
 in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
 [[PDF]](http://shangwenwang.github.io/files/APSEC-20B.pdf)  [[bib]]()
@@ -46,9 +46,16 @@ in *Proceedings of the 13th International Symposium on Empirical Software Engine
 **[Acceptance rate: 19.8% (23/116)]**
 [[PDF]](http://shangwenwang.github.io/files/ESEM-19.pdf)  [[bib]](http://shangwenwang.github.io/files/ESEM-19.txt)
 
+##SEKE'19
+======
+**Shangwen Wang**, Xiaoguang Mao, Nan Niu, Xin Yi, and Anbang Guo.
+**Multi-Location Program Repair Strategies Learned from Successful Experience**
+in *Proceedings of the 31st International Conference on Software Engineering and Knowledge Engineering*, Short Paper, Lisbon, Portugal (SEKE'19, CCF-C).
+[[PDF]](http://shangwenwang.github.io/files/SEKE-19.pdf)  [[bib]]()
+
 ##EASE'19
 ======
-**Shangwen Wang**, Ming Wen, Xiaoguang Mao, Deheng Yang.
+**Shangwen Wang**, Ming Wen, Xiaoguang Mao, and Deheng Yang.
 **Attention Please: Consider Mockito when Evaluating Newly Proposed Automtaed Program Repair Techniques**
 in *Proceedings of the 23rd Evaluation and Assessment in Software Engineering*, Short Paper, Copenhagen, Denmark (EASE'19, CCF-C).
 [[PDF]](http://shangwenwang.github.io/files/EASE-19.pdf)  [[bib]](http://shangwenwang.github.io/files/EASE-19.txt)
@@ -57,7 +64,7 @@ in *Proceedings of the 23rd Evaluation and Assessment in Software Engineering*, 
 ======
 ##ICSME'18
 ======
-Anbang Guo, Xiaoguang Mao, Deheng Yang, **Shangwen Wang**.
+Anbang Guo, Xiaoguang Mao, Deheng Yang, and **Shangwen Wang**.
 **An Empirical Study on the Effect of Dynamic Slicing on Automated Program Repair Efficiency**
 in *Proceedings of the 34th International Conference on Software Maintainess and Evolution*, Short Paper, Madrid, Spain (ICSME'18, **CCF-B**)
 [[PDF]](http://shangwenwang.github.io/files/ICSME-18.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSME-18.txt)
