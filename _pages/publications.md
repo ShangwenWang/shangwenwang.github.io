@@ -4,7 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+# 2021
+### SANER'21
+Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
+**On the Impact of Flaky Tests in Automated Program Repair**
+in *Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Virtual (SANER'21, **CCF-B**).
+[[PDF]]()  [[bib]]()
 
 # 2020
 ### APSEC'20 A
