@@ -9,6 +9,7 @@ author_profile: true
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **On the Impact of Flaky Tests in Automated Program Repair**
 in *Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Virtual (SANER'21, **CCF-B**).
+**[Acceptance rate: 25% (42/165)]**
 [[PDF]]()  [[bib]]()
 
 # 2020
