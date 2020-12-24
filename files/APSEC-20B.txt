@@ -1,0 +1,6 @@
+@inproceedings{zhang2020empirical,
+  title={An Empirical Study on the Influence of Social Interactions for the Acceptance of Answers in Stack Overflow},
+  author={Zhang, Zhang and Mao, Xinjun and Lu, Yao and Wang, Shangwen and Lu, Jinyu},
+  booktitle={Proceedings of the 27th Asia-Pacific Software Engineering Conference},
+  year      = {2020},
+ }
