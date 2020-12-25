@@ -15,6 +15,5 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 I am happy to establish solid cooperation relations with outstanding researchers within my field, such as [Ming Wen](http://justinwm.github.io/) from Huazhong University of Science and Technology, [Kui Liu](https://brucekuiliu.github.io/) from Nanjing University of Aeronautics and Astronautics, and [Tegawendé F. Bissyandé](http://bissyande.github.io) from University of Luxembourg. For our works, please refer to the Publication page.
 
 * NEWS!  
+  * One work has been accepted by [SANER'21](https://saner2021.shidler.hawaii.edu/) (12/2020) This is the first study assessing the impact of flacky tests on bug localization and repairing!
   * Recently I participated in the project led by Professor Steffen Herbold on dissection of bug fixing commits. Our paper is under review by the Springer journal Empirical Software Engineering. A pre-print version can be accessed [here](http://arxiv.org/abs/2011.06244).
-  * Two works have been accepted by [APSEC'20](https://formal-analysis.com/apsec/2020/) (09/2020).
-  * Our work on patch overfitting has been accepted by [ASE'20](https://conf.researchr.org/home/ase-2020) (07/2020). Good job!
