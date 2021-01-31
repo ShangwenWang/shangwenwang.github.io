@@ -1,9 +1,9 @@
 @inproceedings{wang2020automated,
   title={Automated Patch Correctness Assessment: How Far are We?},
   author={Wang, Shangwen and Wen, Ming and Lin, Bo and Wu, Hongjun and Qin, Yihao and Zou, Deqing and Mao, Xiaoguang and Jin, Hai}, 
-  booktitle={Proceedings of the 35th International Conference on Automated Software Engineering (ASE)}, 
+  booktitle={Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)}, 
   year={2020}, 
-  pages={1166--1178},
+  pages={968--980},
   doi={10.1145/3324884.3416590},
   organization={ACM}
 }
