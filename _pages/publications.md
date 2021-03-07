@@ -6,6 +6,12 @@ author_profile: true
 
 # 2021
 
+### ICPC'21
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
+**Automated Comment Update: How Far are We?**
+in *Proceedings of the 29th International Conference on Program Comprehension*, Virtual (ICPC'21, **CCF-B**).
+**[Acceptance rate: 31% (33/105)]**
+[[PDF]](http://shangwenwang.github.io/files/ICPC-21.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-21.txt)  [[Artifacts]](https://github.com/Ringbo/HebCup)
 ### SANER'21
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **On the Impact of Flaky Tests in Automated Program Repair**
