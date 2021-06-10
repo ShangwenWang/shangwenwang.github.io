@@ -2,5 +2,6 @@
   title={On the Impact of Flaky Tests in Automated Program Repair},
   author={Qin, Yihao and Wang, Shangwen and Liu, Kui and Mao, Xiaoguang and Bissyand{\'e}, Tegawend{\'e} F. },
   booktitle={The 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={295-306},
   year={2021},
 }

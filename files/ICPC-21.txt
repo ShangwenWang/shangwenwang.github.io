@@ -2,5 +2,6 @@
   title={Automated Comment Update: How Far are We?},
   author={Lin, Bo and Wang, Shangwen and Liu, Kui and Mao, Xiaoguang and Bissyand{\'e}, Tegawend{\'e} F. },
   booktitle={The 29th IEEE/ACM International Conference on Program Comprehension (ICPC)},
+  pages={36--46},
   year={2021},
 }

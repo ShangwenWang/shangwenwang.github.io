@@ -10,8 +10,8 @@ author_profile: true
 **Shangwen Wang**, Ming Wen, Bo Lin, and Xiaoguang Mao.
 **Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge**
 in *Proceedings of the 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Athens, Greece (ESEC/FSE'21, **CCF-A**).
-**[Acceptance rate: 24% (97/396)]**
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+**[Acceptance rate: 24.5% (97/396)]**
+[[PDF]](http://shangwenwang.github.io/files/FSE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-21.txt)  [[Artifacts]](https://github.com/ShangwenWang/Cognac)
 ### ICPC'21
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Automated Comment Update: How Far are We?**
