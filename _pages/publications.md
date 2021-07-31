@@ -6,11 +6,17 @@ author_profile: true
 
 # 2021
 
+### ISSRE'21
+Hongjun Wu, Zhuo Zhang, **Shangwen Wang<sup>\*</sup>**, Yan Lei, Bo Lin, Yihao Qin, Haoyu Zhang, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques**
+in *Proceedings of the 32nd International Symposium on Software Reliability Engineering*, Wuhan, China (ISSRE'21, **CCF-B**).
+**[Acceptance rate: 27.5% (52/189)]**
+[[PDF]]()  [[bib]]()  [[Artifacts]](https://github.com/wuhongjun15/Peculiar)
 ### ESEC/FSE'21
 **Shangwen Wang**, Ming Wen, Bo Lin, and Xiaoguang Mao.
 **Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge**
 in *Proceedings of the 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Athens, Greece (ESEC/FSE'21, **CCF-A**).
-**[Acceptance rate: 24.5% (97/396)]**
+**[Acceptance rate: 24.2% (96/396)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-21.txt)  [[Artifacts]](https://github.com/ShangwenWang/Cognac)
 ### ICPC'21
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Xiaoguang Mao, and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
