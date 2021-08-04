@@ -11,7 +11,7 @@ Hongjun Wu, Zhuo Zhang, **Shangwen Wang<sup>\*</sup>**, Yan Lei, Bo Lin, Yihao Q
 **Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques**
 in *Proceedings of the 32nd International Symposium on Software Reliability Engineering*, Wuhan, China (ISSRE'21, **CCF-B**).
 **[Acceptance rate: 27.5% (52/189)]**
-[[PDF]]()  [[bib]]()  [[Artifacts]](https://github.com/wuhongjun15/Peculiar)
+[[PDF]](http://shangwenwang.github.io/files/ISSRE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/ISSRE-21.txt)  [[Artifacts]](https://github.com/wuhongjun15/Peculiar)
 ### ESEC/FSE'21
 **Shangwen Wang**, Ming Wen, Bo Lin, and Xiaoguang Mao.
 **Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge**
