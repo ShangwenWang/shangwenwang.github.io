@@ -1,0 +1,7 @@
+@inproceedings{wu2021peculiar,
+  title={Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques},
+  author={Wu, Hongjun and Zhang, Zhuo and Wang, Shangwen and Lei, Yan and Lin, Bo and Qin, Yihao and Zhang, Haoyu and Mao, Xiaoguang},
+  booktitle={2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)},
+  year={2021},
+  organization={IEEE}
+}
