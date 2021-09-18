@@ -28,8 +28,10 @@ Teaching
   
 Service
 ======
-* External Reviewer of [APSEC'20](https://formal-analysis.com/apsec/2020/)
-* External Reviewer of [ISSRE'20](http://2020.issre.net/)
+* Program Committee Member of [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge)
+* External Reviewer of [ICSE'22](https://conf.researchr.org/home/icse-2022)
+* External Reviewer of [APR'21](http://program-repair.org/workshop-2021/)
+* External Reviewer of [APSEC'20](https://formal-analysis.com/apsec/2020/), [ISSRE'20](http://2020.issre.net/)
 * Student Volunteer, [ISSTA'19](https://conf.researchr.org/home/issta-2019), Beijing, China
 
 Honor
