@@ -4,5 +4,6 @@
   booktitle={2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
   pages={1--12},
   year={2019},
-  organization={IEEE}
+  organization={IEEE}，
+  doi={10.1109/ESEM.2019.8870172},
 }
