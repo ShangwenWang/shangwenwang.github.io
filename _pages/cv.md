@@ -28,6 +28,7 @@ Teaching
   
 Service
 ======
+* Program Committee Member of [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research)
 * Program Committee Member of [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge)
 * External Reviewer of [ICSE'22](https://conf.researchr.org/home/icse-2022)
 * External Reviewer of [APR'21](http://program-repair.org/workshop-2021/)
@@ -36,4 +37,4 @@ Service
 
 Honor
 ======
-* Qiangjun Scholorship, NUDT, 2019
+* Qiangjun Scholorship, NUDT, 2019 (Master period)
