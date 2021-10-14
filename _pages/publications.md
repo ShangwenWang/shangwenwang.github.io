@@ -5,7 +5,11 @@ author_profile: true
 ---
 
 # 2021
-
+### EMSE'21
+Steffen Herbold et al.
+**A Fine-grained Data Set and Analysis of Tangling inBug Fixing Commits**
+in *Empirical Software Engineering* (**CCF-B**), 2021.
+[[PDF]](http://shangwenwang.github.io/files/EMSE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/EMSE-21.txt)
 ### ISSRE'21
 Hongjun Wu, Zhuo Zhang, **Shangwen Wang<sup>\*</sup>**, Yan Lei, Bo Lin, Yihao Qin, Haoyu Zhang, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques**
