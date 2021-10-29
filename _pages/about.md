@@ -16,7 +16,7 @@ I am happy to establish solid cooperation relations with outstanding researchers
 
 * NEWS!  
   * 2021.10: Good news! Recently I participated in the project led by Professor Steffen Herbold on dissection of bug fixing commits. Our paper has been accepted by the Springer journal Empirical Software Engineering. A pre-print version can be accessed [here](http://arxiv.org/abs/2011.06244).
-  * 2021.10: I will serve as the PC Member of [ICPC2022](https://conf.researchr.org/home/icpc-2022). Welcome for submissions!
-  * 2021.08: Our Peculiar has been accepted by [ISSRE2021](http://2021.issre.net/). Congratulations to Hongjun!
-  * 2021.05: One recent work has been accepted by [ESEC/FSE2021](https://2021.esec-fse.org/). Really happy about that!
+  * 2021.10: I will serve as the PC Member of [ICPC 2022](https://conf.researchr.org/home/icpc-2022). Welcome for submissions!
+  * 2021.08: Our Peculiar has been accepted by [ISSRE 2021](http://2021.issre.net/). Congratulations to Hongjun!
+  * 2021.05: One recent work has been accepted by [ESEC/FSE 2021](https://2021.esec-fse.org/). Really happy about that!
   

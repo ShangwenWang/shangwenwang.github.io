@@ -4,6 +4,6 @@
   booktitle={2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)},
   year={2021},
   organization={IEEE}，
-  pages={},
-  doi={},
+  pages={378--389},
+  doi={10.1109/ISSRE52982.2021.00047},
 }

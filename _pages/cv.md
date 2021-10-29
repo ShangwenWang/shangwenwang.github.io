@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* National University of Defense Technology, 2020.3 - Now
+  * Ph.D, Software Engineering, Supervised by Prof. Xiaoguang Mao
+
 * National University of Defense Technology, 2017.9 - 2019.12
   * MA.Sc, Software Engineering, Supervised by Prof. Xiaoguang Mao
   * Master Thesis: An Empirical Study on the Bias in the Evaluation of Automated Program Repair 
@@ -28,13 +31,16 @@ Teaching
   
 Service
 ======
-* Program Committee Member of [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research)
-* Program Committee Member of [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge)
-* External Reviewer of [ICSE'22](https://conf.researchr.org/home/icse-2022)
-* External Reviewer of [APR'21](http://program-repair.org/workshop-2021/)
-* External Reviewer of [APSEC'20](https://formal-analysis.com/apsec/2020/), [ISSRE'20](http://2020.issre.net/)
-* Student Volunteer, [ISSTA'19](https://conf.researchr.org/home/issta-2019), Beijing, China
+* Program Committee Member 
+  * 2022: [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research); [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge)
+* External Reviewer 
+  * 2022: [ICSE'22](https://conf.researchr.org/home/icse-2022); [SANER'22](https://saner2022.uom.gr/)
+  * 2021: [APR'21](http://program-repair.org/workshop-2021/)
+  * 2020: [ISSRE'20](http://2020.issre.net/); [APSEC'20](https://formal-analysis.com/apsec/2020/)
+* Student Volunteer
+  * [ISSTA'19](https://conf.researchr.org/home/issta-2019), Beijing, China
 
 Honor
 ======
+* Guanghua Scholorship, NUDT, 2021 (Doctor period)
 * Qiangjun Scholorship, NUDT, 2019 (Master period)
