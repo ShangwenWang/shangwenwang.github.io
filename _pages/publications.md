@@ -5,7 +5,12 @@ author_profile: true
 ---
 
 # 2021
-### EMSE'21
+### TOSEM
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
+in *ACM Transactions on Software Engineering and Methodology* (**CCF-A**), 2021.
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-21.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-21.txt)  [[Artifacts]]()
+### EMSE
 Steffen Herbold et al.
 **A Fine-grained Data Set and Analysis of Tangling inBug Fixing Commits**
 in *Empirical Software Engineering* (**CCF-B**), 2021.

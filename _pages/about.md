@@ -15,8 +15,8 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 I am happy to establish solid cooperation relations with outstanding researchers within my field, such as [Ming Wen](http://justinwm.github.io/) from Huazhong University of Science and Technology, [Kui Liu](https://brucekuiliu.github.io/) from Nanjing University of Aeronautics and Astronautics, and [Tegawendé F. Bissyandé](http://bissyande.github.io) from University of Luxembourg. For our works, please refer to the Publication page.
 
 * NEWS!  
+  * 2021.12: Our Cache has been accepted by [TOSEM](https://dl.acm.org/journal/tosem). Congratulations to Bo!
   * 2021.10: Good news! Recently I participated in the project led by Professor Steffen Herbold on dissection of bug fixing commits. Our paper has been accepted by the Springer journal Empirical Software Engineering. A pre-print version can be accessed [here](http://arxiv.org/abs/2011.06244).
   * 2021.10: I will serve as the PC Member of [ICPC 2022](https://conf.researchr.org/home/icpc-2022). Welcome for submissions!
   * 2021.08: Our Peculiar has been accepted by [ISSRE 2021](http://2021.issre.net/). Congratulations to Hongjun!
-  * 2021.05: One recent work has been accepted by [ESEC/FSE 2021](https://2021.esec-fse.org/). Really happy about that!
   
