@@ -1,6 +1,9 @@
 @inproceedings{lin2020understanding,
   title={Understanding the non-repairability factors of automated program repair techniques},
   author={Lin, Bo and Wang, Shangwen and Wen, Ming and Zhang, Zhang and Wu, Hongjun and Qin, Yihao and Mao, Xiaoguang},
-  booktitle={Proceedings of the 27th Asia-Pacific Software Engineering Conference},
-  year      = {2020},
- }
+  booktitle={2020 27th Asia-Pacific Software Engineering Conference (APSEC)},
+  pages={71--80},
+  year={2020},
+  doi={10.1109/APSEC51365.2020.00015},
+  organization={IEEE}
+}

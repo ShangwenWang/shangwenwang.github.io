@@ -3,7 +3,7 @@
   author={Wu, Hongjun and Zhang, Zhuo and Wang, Shangwen and Lei, Yan and Lin, Bo and Qin, Yihao and Zhang, Haoyu and Mao, Xiaoguang},
   booktitle={2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)},
   year={2021},
-  organization={IEEE}，
+  organization={IEEE},
   pages={378--389},
   doi={10.1109/ISSRE52982.2021.00047},
 }

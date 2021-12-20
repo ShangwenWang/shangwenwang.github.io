@@ -4,7 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2022
+
+### SANER'22 A
+Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and Xinjun Mao.
+**On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
+in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Honolulu, Hawaii (SANER'22, **CCF-B**).
+**[Acceptance rate: 24% (48/199)]**
+[[PDF]]()  [[bib]]()
+### SANER'22 B
+Yinyuan Zhang, Yang Zhang, Xinjun Mao, Yiwen Wu, Bo Lin, **Shangwen Wang**
+**Recommending Base Image for Docker Containers based on Deep Configuration Comprehension**
+in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, ERA Track, Honolulu, Hawaii (SANER'22, **CCF-B**).
+[[PDF]]()  [[bib]]()
+
 # 2021
+
 ### TOSEM
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
