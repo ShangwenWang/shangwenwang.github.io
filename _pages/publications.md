@@ -11,12 +11,12 @@ Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and
 **On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Honolulu, Hawaii (SANER'22, **CCF-B**).
 **[Acceptance rate: 24% (48/199)]**
-[[PDF]]()  [[bib]]()
+[[PDF]](http://shangwenwang.github.io/files/SANER-22A.pdf)  [[bib]](http://shangwenwang.github.io/files/SANER-22A.txt) [[Artifacts]](https://doi.org/10.5281/zenodo.5574860)
 ### SANER'22 B
-Yinyuan Zhang, Yang Zhang, Xinjun Mao, Yiwen Wu, Bo Lin, **Shangwen Wang**
+Yinyuan Zhang, Yang Zhang, Xinjun Mao, Yiwen Wu, Bo Lin, **Shangwen Wang**.
 **Recommending Base Image for Docker Containers based on Deep Configuration Comprehension**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, ERA Track, Honolulu, Hawaii (SANER'22, **CCF-B**).
-[[PDF]]()  [[bib]]()
+[[PDF]](http://shangwenwang.github.io/files/SANER-22B.pdf)  [[bib]](http://shangwenwang.github.io/files/SANER-22B.txt)
 
 # 2021
 
@@ -24,10 +24,10 @@ in *Proceedings of the 29th IEEE International Conference on Software Analysis, 
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
 in *ACM Transactions on Software Engineering and Methodology* (**CCF-A**), 2021.
-[[PDF]](http://shangwenwang.github.io/files/TOSEM-21.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-21.txt)  [[Artifacts]]()
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-21.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-21.txt)  [[Artifacts]](https://github.com/Ringbo/Cache)
 ### EMSE
 Steffen Herbold et al.
-**A Fine-grained Data Set and Analysis of Tangling inBug Fixing Commits**
+**A Fine-grained Data Set and Analysis of Tangling in Bug Fixing Commits**
 in *Empirical Software Engineering* (**CCF-B**), 2021.
 [[PDF]](http://shangwenwang.github.io/files/EMSE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/EMSE-21.txt)
 ### ISSRE'21
