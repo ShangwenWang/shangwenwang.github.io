@@ -11,7 +11,7 @@ Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Fang Peng
 in *Proceedings of the 30th ACM/IEEE International Conference on Program Comprehension*, Virtual (ICPC'22, **CCF-B**).
 **[Acceptance rate: 47% (48/102)]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
-### SANER'22 A
+### SANER'22 A <font color="red">(IEEE TCSE Distinguished Paper Award)</font>
 Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and Xinjun Mao.
 **On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Honolulu, Hawaii (SANER'22, **CCF-B**).
@@ -30,7 +30,7 @@ Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</su
 **Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
 in *ACM Transactions on Software Engineering and Methodology* (**CCF-A**), 2021.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-21.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-21.txt)  [[Artifacts]](https://github.com/Ringbo/Cache)
-### EMSE
+### EMSE <font color="yellow">(Presented as a journal-first paper at ICSE'22)</font>
 Steffen Herbold et al.
 **A Fine-grained Data Set and Analysis of Tangling in Bug Fixing Commits**
 in *Empirical Software Engineering* (**CCF-B**), 2021.
