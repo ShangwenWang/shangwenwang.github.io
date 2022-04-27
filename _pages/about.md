@@ -12,7 +12,7 @@ Welcome to Shangwen Wang's (王尚文) homepage!
 
 Currently, I am a Ph.D student at National University of Defense Technology. I have obtained my bachelor degree and master degree from NUDT at June, 2017 and December, 2019, respectively. During my master study, I was honored to be supervised by Prof. Xiaoguang Mao. My research interests mainly focus on program repair, software testing, software maintenance and evolution, mining software repositories, and empirical software engineering. Recently, I begin to use deep learning techniques for solving software engineering problems.
 
-I am happy to establish solid cooperation relations with outstanding researchers within my field, such as [Ming Wen](http://justinwm.github.io/) from Huazhong University of Science and Technology, [Kui Liu](https://brucekuiliu.github.io/) from Nanjing University of Aeronautics and Astronautics, and [Tegawendé F. Bissyandé](http://bissyande.github.io) from University of Luxembourg. For our works, please refer to the Publication page.
+From the April of 2022, I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
   * 2022.03: Our work on code-comment semantic interaction analysis has been accepted by [ICPC 2022](https://conf.researchr.org/home/icpc-2022). Congratulations to Mingyang!  
