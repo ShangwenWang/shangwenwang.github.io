@@ -1,0 +1,17 @@
+@article{lin2022context,
+author = {Lin, Bo and Wang, Shangwen and Wen, Ming and Mao, Xiaoguang},
+title = {Context-Aware Code Change Embedding for Better Patch Correctness Assessment},
+year = {2022},
+issue_date = {July 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {31},
+number = {3},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3505247},
+doi = {10.1145/3505247},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = {may},
+articleno = {51},
+numpages = {29}
+}
