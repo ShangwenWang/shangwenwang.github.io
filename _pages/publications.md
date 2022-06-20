@@ -5,18 +5,23 @@ author_profile: true
 ---
 
 # 2022
+### TSE
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
+in *IEEE Transactions on Software Engineering* (**CCF-A**), 2022.
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### ICSME'22 A
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Bo Lin, Hongjun Wu, Li Li, Xiaoguang Mao and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Peeler: Learning to Effectively Predict Flakiness without Running Tests**
 in *Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution*, Limassol, Cyprus (ICSME'22, **CCF-B**).
 **[Acceptance rate: 23.5% (32/136)]**
-[[PDF]](http://shangwenwang.github.io/files/ICSME-22A.pdf)  [[bib]]()  [[Artifacts]]()
+[[PDF]](http://shangwenwang.github.io/files/ICSME-22A.pdf)  [[bib]]()  [[Artifacts]](https://github.com/IntHelloWorld/Peeler)
 ### ICSME'22 B
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Weijian Ruan, Xiaoguang Mao and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Intermediate Representation-based Semantic Graph for Cross-language Code Search**
 in *Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution*, Limassol, Cyprus (ICSME'22, **CCF-B**).
 **[Acceptance rate: 23.5% (32/136)]**
-[[PDF]](http://shangwenwang.github.io/files/ICSME-22B.pdf)  [[bib]]()  [[Artifacts]]()
+[[PDF]](http://shangwenwang.github.io/files/ICSME-22B.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/Coser)
 ### ICPC'22
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Fang Peng, Weijian Ruan, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Fine-Grained Code-Comment Semantic Interaction Analysis**
