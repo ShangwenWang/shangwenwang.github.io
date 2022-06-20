@@ -8,8 +8,8 @@ author_profile: true
 ### TSE
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
-in *IEEE Transactions on Software Engineering* (**CCF-A**), 2022.
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2022.
+[[PDF]]()  [[bib]]()  [[Artifacts]](https://github.com/Ringbo/Toper)
 ### ICSME'22 A
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Bo Lin, Hongjun Wu, Li Li, Xiaoguang Mao and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Peeler: Learning to Effectively Predict Flakiness without Running Tests**
@@ -45,7 +45,7 @@ in *Proceedings of the 29th IEEE International Conference on Software Analysis, 
 ### TOSEM
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
-in *ACM Transactions on Software Engineering and Methodology* (**CCF-A**), 2021.
+in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2021.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-21.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-21.txt)  [[Artifacts]](https://github.com/Ringbo/Cache)
 ### EMSE <font color="orange">(Presented as a journal-first paper at ICSE'22)</font>
 Steffen Herbold et al.
@@ -61,7 +61,7 @@ in *Proceedings of the 32nd IEEE International Symposium on Software Reliability
 ### ESEC/FSE'21
 **Shangwen Wang**, Ming Wen, Bo Lin, and Xiaoguang Mao.
 **Lightweight Global and Local Contexts Guided Method Name Recommendation with Prior Knowledge**
-in *Proceedings of the 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Athens, Greece (ESEC/FSE'21, **CCF-A**).
+in *Proceedings of the 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, Athens, Greece (ESEC/FSE'21, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 24.2% (96/396)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-21.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-21.txt)  [[Artifacts]](https://github.com/ShangwenWang/Cognac)
 ### ICPC'21
@@ -92,13 +92,13 @@ in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singa
 ### ASE'20
 **Shangwen Wang**, Ming Wen, Bo Lin, Hongjun Wu, Yihao Qin, Deqing Zou, Xiaoguang Mao, and Hai Jin.
 **Automated Patch Correctness Assessment: How Far are We?**
-in *Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering*, Melbourne, Australia (ASE'20, **CCF-A**).
+in *Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering*, Melbourne, Australia (ASE'20, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 22.5% (93/414)]**
 [[PDF]](http://shangwenwang.github.io/files/ASE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ASE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3730599)
 ### ICSE'20
 Kui Liu, **Shangwen Wang<sup>\*</sup>**, Anil Koyuncu, Kisub Kim, Tegawendé F. Bissyandé, Dongsun Kim, Peng Wu, Jacques Klein, Xiaoguang Mao, and Yves Le Traon (<sup>\*</sup>Co-first author and Corresponding author).
 **On the efficiency of Test Suite based Program Repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs**
-in *Proceedings of the 42nd IEEE/ACM International Conference on Software Engineering*, Seoul, South Korea (ICSE'20, **CCF-A**).
+in *Proceedings of the 42nd IEEE/ACM International Conference on Software Engineering*, Seoul, South Korea (ICSE'20, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 20.9% (129/617)]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-20.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSE-20.txt)  [[Artifacts]](http://doi.org/10.5281/zenodo.3678960)
 
