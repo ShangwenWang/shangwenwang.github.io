@@ -9,7 +9,7 @@ author_profile: true
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2022.
-[[PDF]]()  [[bib]]()  [[Artifacts]](https://github.com/Ringbo/Toper)
+[[PDF]](http://shangwenwang.github.io/files/TSE-22.pdf)  [[bib]]()  [[Artifacts]](https://github.com/Ringbo/Toper)
 ### ICSME'22 A
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Bo Lin, Hongjun Wu, Li Li, Xiaoguang Mao and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Peeler: Learning to Effectively Predict Flakiness without Running Tests**
