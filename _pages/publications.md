@@ -9,25 +9,25 @@ author_profile: true
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2022.
-[[PDF]](http://shangwenwang.github.io/files/TSE-22.pdf)  [[bib]]()  [[Artifacts]](https://github.com/Ringbo/Toper)
+[[PDF]](http://shangwenwang.github.io/files/TSE-22.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-22.txt)  [[Artifacts]](https://github.com/Ringbo/Toper)
 ### ICSME'22 A
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Bo Lin, Hongjun Wu, Li Li, Xiaoguang Mao and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Peeler: Learning to Effectively Predict Flakiness without Running Tests**
 in *Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution*, Limassol, Cyprus (ICSME'22, **CCF-B**).
 **[Acceptance rate: 23.5% (32/136)]**
-[[PDF]](http://shangwenwang.github.io/files/ICSME-22A.pdf)  [[bib]]()  [[Artifacts]](https://github.com/IntHelloWorld/Peeler)
+[[PDF]](http://shangwenwang.github.io/files/ICSME-22A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSME-22A.txt)  [[Artifacts]](https://github.com/IntHelloWorld/Peeler)
 ### ICSME'22 B
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Weijian Ruan, Xiaoguang Mao and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Intermediate Representation-based Semantic Graph for Cross-language Code Search**
 in *Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution*, Limassol, Cyprus (ICSME'22, **CCF-B**).
 **[Acceptance rate: 23.5% (32/136)]**
-[[PDF]](http://shangwenwang.github.io/files/ICSME-22B.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/Coser)
+[[PDF]](http://shangwenwang.github.io/files/ICSME-22B.pdf)  [[bib]](http://shangwenwang.github.io/files/ICSME-22B.txt)  [[Artifacts]](https://github.com/gmy2013/Coser)
 ### ICPC'22
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Fang Peng, Weijian Ruan, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Fine-Grained Code-Comment Semantic Interaction Analysis**
 in *Proceedings of the 30th ACM/IEEE International Conference on Program Comprehension*, Virtual (ICPC'22, **CCF-B**).
 **[Acceptance rate: 47% (48/102)]**
-[[PDF]](http://shangwenwang.github.io/files/ICPC-22.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/FOSTERER)
+[[PDF]](http://shangwenwang.github.io/files/ICPC-22.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-22.txt)  [[Artifacts]](https://github.com/gmy2013/FOSTERER)
 ### SANER'22 A <font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
 Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and Xinjun Mao.
 **On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
