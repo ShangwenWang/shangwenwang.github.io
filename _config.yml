@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Dr. Shangwen Wang"
   avatar           : "profile.png"
-  bio              : "A Ph.D student at National University of Defense Technology, who majors in program repair, software testing, and mining software repositories."
+  bio              : "A Ph.D student at National University of Defense Technology, who majors in program repair, software testing, program comprehension, mining software repositories, and AI4SE."
   location         : "Changsha, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gPIngo4AAAAJ&hl=zh-CN&scioq=shangwen+wang"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=YAezhncAAAAJ&hl=zh-CN"
   email            : wangshangwen13@nudt.edu.cn
   researchgate     : "https://www.researchgate.net/profile/Shangwen_Wang"
   uri              :
