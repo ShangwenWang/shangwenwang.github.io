@@ -18,6 +18,4 @@ From the April of 2022, I am a visiting student at Southern University of Scienc
   * 2022.06: Our work on code comment update has been accepted by [TSE](https://www.computer.org/csdl/journal/ts). Congratulations to Bo!
   * 2022.06: Our works on flaky test detection has been accepted by [ICSME 2022](https://cyprusconferences.org/icsme2022/). Congratulations to Yihao!
   * 2022.03: Our work on code-comment semantic interaction analysis has been accepted by [ICPC 2022](https://conf.researchr.org/home/icpc-2022). Congratulations to Mingyang!  
-  * 2021.12: Our works on Microservices and Docker Containers have been accepted by [SANER 2022](https://saner2022.uom.gr/index). Congratulations to Menghan and Yinyuan!
-  * 2021.12: Our Cache has been accepted by [TOSEM](https://dl.acm.org/journal/tosem). Congratulations to Bo!
   
