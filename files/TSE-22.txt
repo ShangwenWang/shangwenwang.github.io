@@ -1,0 +1,10 @@
+@article{lin2022predictive,
+  author={Lin, Bo and Wang, Shangwen and Liu, Zhongxin and Xia, Xin and Mao, Xiaoguang},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/TSE.2022.3185458}
+}

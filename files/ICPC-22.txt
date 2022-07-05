@@ -2,5 +2,7 @@
   title={Fine-Grained Code-Comment Semantic Interaction Analysis},
   author={Geng, Mingyang and Wang, Shangwen and Dong, Dezun and Gu, Shanzhi and Peng, Fang and Ruan, Weijian and Liao, Xiangke},
   year={2022},
-  booktitle={Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension (ICPC)},
+  booktitle={2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)},
+  pages={585-596},
+  doi={10.1145/3524610.3527887}
 }
