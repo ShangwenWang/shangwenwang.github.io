@@ -23,7 +23,7 @@ Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Fang Peng
 in *Proceedings of the 30th ACM/IEEE International Conference on Program Comprehension*, Virtual (ICPC'22, **CCF-B**).
 **[Acceptance rate: 47% (48/102)]**
 [[PDF]](http://shangwenwang.github.io/files/ICPC-22.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-22.txt)  [[Artifacts]](https://github.com/gmy2013/FOSTERER)
-### SANER'22 A <font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
+### SANER'22 A 🏆<font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
 Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and Xinjun Mao.
 **On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Honolulu, Hawaii (SANER'22, **CCF-B**).
