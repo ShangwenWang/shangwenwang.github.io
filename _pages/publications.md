@@ -6,6 +6,18 @@ author_profile: true
 
 # 2022
 
+### ASE'22 A
+Haoye Tian, Xunzhu Tang, Andrew Habib, **Shangwen Wang**, Kui Liu, Xin Xia, Jacques Klein, and Tegawendé F. Bissyandé.
+**Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness**
+in *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering*, Michigan, United States (ASE'22, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 22.0% (116/527)]**
+[[PDF]](http://shangwenwang.github.io/files/ASE-22A.pdf) [[bib]](http://shangwenwang.github.io/files/ASE-22A.txt)
+### ASE'22 B
+Zhuo Zhang, Yan Lei, Meng Yan, Yue Yu, Jiachi Chen, **Shangwen Wang**, and Xiaoguang Mao.
+**Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach**
+in *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering*, Michigan, United States (ASE'22, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 22.0% (116/527)]**
+[[PDF]](http://shangwenwang.github.io/files/ASE-22B.pdf) [[bib]](http://shangwenwang.github.io/files/ASE-22B.txt)
 ### TSE
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
