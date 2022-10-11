@@ -23,7 +23,7 @@ Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2022.
 [[PDF]](http://shangwenwang.github.io/files/TSE-22.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-22.txt)  [[Artifacts]](https://github.com/Ringbo/Toper)
-### ICSME'22
+### ICSME'22 🏆<font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Kui Liu, Bo Lin, Hongjun Wu, Li Li, Xiaoguang Mao and Tegawendé F. Bissyandé (<sup>\*</sup>Corresponding author).
 **Peeler: Learning to Effectively Predict Flakiness without Running Tests**
 in *Proceedings of the 38th IEEE International Conference on Software Maintenance and Evolution*, Limassol, Cyprus (ICSME'22, **CCF-B**).
@@ -49,7 +49,7 @@ in *Proceedings of the 29th IEEE International Conference on Software Analysis, 
 
 # 2021
 
-### TOSEM
+### TOSEM <font color="orange">(Presented as a journal-first paper at ESEC/FSE'22)</font>
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Context-Aware Code Change Embedding for Better Patch Correctness Assessment**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2021.
