@@ -4,6 +4,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2023
+
+### ICPC'23 A
+Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Shaomeng Cao, Kechi Zhang, and Zhi Jin (<sup>\*</sup>Corresponding author).
+**Interpretation-based Code Summarization**
+in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
+**[Acceptance rate: 32% (22/67)]**
+[[PDF]](http://shangwenwang.github.io/files/ICPC-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23A.txt)  [[Artifacts]]()
+### ICPC'23 B
+Kang Yang, Xinjun Mao, **Shangwen Wang**, Yihao Qin, Yao Lu, Tanghaoran Zhang, and Kamal Al-Sabahi.
+**An Extensive Study of the Structure Features in Transformer-based Code Semantic Summarization**
+in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
+**[Acceptance rate: 32% (22/67)]**
+[[PDF]](http://shangwenwang.github.io/files/ICPC-23B.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23B.txt)  [[Artifacts]]()
+
+
 # 2022
 
 ### ASE'22 A
