@@ -15,8 +15,8 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 From the April of 2022, I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
-  * 2023.2: Two works got accepted by [ICPC 2023](https://conf.researchr.org/track/icpc-2023/icpc-2023-research).
-  * 2023.2: Invited to serve as a program committee member of [ESEM 2023](https://conf.researchr.org/home/esem-2023).
+  * 2023.02: Two works got accepted by [ICPC 2023](https://conf.researchr.org/track/icpc-2023/icpc-2023-research).
+  * 2023.02: Invited to serve as a program committee member of [ESEM 2023](https://conf.researchr.org/home/esem-2023).
   * 2022.12: Very happy to serve as a program committee member of [APR 2023](http://program-repair.org/workshop-2023/). Thanks for the invitation!
   * 2022.12: I am very happy to be selected as a Junior program committee member of [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc). Looking forward to reviewing wonderful papers and learning something from senior researchers!
   * 2022.10: I am very happy to serve as a program committee member of [ICPC 2023](https://conf.researchr.org/track/icpc-2023/icpc-2023-research). Welcome to submit your wonderful works!
