@@ -13,7 +13,7 @@ in *Proceedings of the 31st ACM/IEEE International Conference on Program Compreh
 **[Acceptance rate: 32% (22/67)]**
 [[PDF]](http://shangwenwang.github.io/files/ICPC-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23A.txt)  [[Artifacts]]( https://github.com/gmy2013/Icser)
 ### ICPC'23 B
-Kang Yang, Xinjun Mao, **Shangwen Wang**, Yihao Qin, Yao Lu, Tanghaoran Zhang, and Kamal Al-Sabahi.
+Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Yao Lu, Tanghaoran Zhang, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
 **An Extensive Study of the Structure Features in Transformer-based Code Semantic Summarization**
 in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
 **[Acceptance rate: 32% (22/67)]**
