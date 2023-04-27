@@ -6,6 +6,11 @@ author_profile: true
 
 # 2023
 
+### JoS (软件学报)
+**Shangwen Wang**, Kui Liu, Bo Lin, Li Li, Jacques Klein, Tegawendé F. Bissyandé, and Xiaoguang Mao.
+**Fine-Grained Fault Localization Based on Pointer Neural Network (基于指针神经网络的细粒度缺陷定位研究)**
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+[[PDF]](http://shangwenwang.github.io/files/JoS-23.pdf)  [[bib]]()  
 ### ICPC'23 A
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Shaomeng Cao, Kechi Zhang, and Zhi Jin (<sup>\*</sup>Corresponding author).
 **Interpretation-based Code Summarization**
