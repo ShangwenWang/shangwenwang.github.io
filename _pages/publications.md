@@ -6,6 +6,11 @@ author_profile: true
 
 # 2023
 
+### TOSEM
+**Shangwen Wang**, Ming Wen, Bo Lin, Yepang Liu, Tegawendé F. Bissyandé, and Xiaoguang Mao.
+**Pre-Implementation Method Name Prediction for Object-Oriented Programming**
+in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2023.
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-23.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-23.txt)  [[Artifacts]](https://github.com/ShangwenWang/Mario)
 ### JoS (软件学报)
 **Shangwen Wang**, Kui Liu, Bo Lin, Li Li, Jacques Klein, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Fine-Grained Fault Localization Based on Pointer Neural Network (基于指针神经网络的细粒度缺陷定位研究)**
