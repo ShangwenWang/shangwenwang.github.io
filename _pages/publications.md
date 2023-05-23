@@ -6,6 +6,12 @@ author_profile: true
 
 # 2023
 
+### ESEC/FSE'23 A
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Yepang Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**CCT5: A Code-Change-Oriented Pre-Trained Model**
+in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]](http://shangwenwang.github.io/files/FSE-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23A.txt)  [[Artifacts]](https://github.com/Ringbo/CCT5)
 ### TOSEM
 **Shangwen Wang**, Ming Wen, Bo Lin, Yepang Liu, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Pre-Implementation Method Name Prediction for Object-Oriented Programming**
@@ -21,7 +27,7 @@ Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Shaomen
 **Interpretation-based Code Summarization**
 in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
 **[Acceptance rate: 32% (22/67)]**
-[[PDF]](http://shangwenwang.github.io/files/ICPC-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23A.txt)  [[Artifacts]]( https://github.com/gmy2013/Icser)
+[[PDF]](http://shangwenwang.github.io/files/ICPC-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23A.txt)  [[Artifacts]](https://github.com/gmy2013/Icser)
 ### ICPC'23 B
 Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Yao Lu, Tanghaoran Zhang, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
 **An Extensive Study of the Structure Features in Transformer-based Code Semantic Summarization**
