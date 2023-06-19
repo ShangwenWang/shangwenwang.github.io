@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2024
+
+### ICSE'24
+Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
+**Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**
+in *Proceedings of the 46nd IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
+[[PDF]](http://shangwenwang.github.io/files/ICSE-24.pdf)  [[bib]]()  [[Artifacts]]()
+
 # 2023
 
 ### ESEC/FSE'23 A
@@ -50,7 +58,7 @@ Zhuo Zhang, Yan Lei, Meng Yan, Yue Yu, Jiachi Chen, **Shangwen Wang**, and Xiaog
 in *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering*, Michigan, United States (ASE'22, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 22.0% (116/527)]**
 [[PDF]](http://shangwenwang.github.io/files/ASE-22B.pdf) [[bib]](http://shangwenwang.github.io/files/ASE-22B.txt)
-### TSE
+### TSE <font color="orange">(Presented as a journal-first paper at ICSE'23)</font>
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Predictive Comment Updating with Heuristics and AST-Path-Based Neural Learning: A Two-Phase Approach**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2022.

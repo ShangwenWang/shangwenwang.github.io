@@ -15,6 +15,7 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 From the April of 2022, I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2023.06: Our work on using LLMs for multi-intent comment generation got accepted by [ICSE 2024](https://conf.researchr.org/home/icse-2024). Congratulations to Mingyang!
   * 2023.05: Our work on the pre-trained model for code changes got accepted by [ESEC/FSE 2023](https://2023.esec-fse.org/). Congratulations to Bo!
   * 2023.04: My work on method name prediction finally got accepted by [TOSEM](https://dl.acm.org/journal/tosem)!
   * 2023.02: Two works got accepted by [ICPC 2023](https://conf.researchr.org/track/icpc-2023/icpc-2023-research).
