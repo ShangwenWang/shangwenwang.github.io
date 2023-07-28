@@ -14,7 +14,7 @@ Education
 * National University of Defense Technology, 2020.3 - Now
   * Ph.D, Software Engineering, Supervised by Prof. Xiaoguang Mao
 
-* Southern University of Science and Technology, 2022.5 - Now
+* Southern University of Science and Technology, 2022.5 - 2023.7
   * Visiting Scholar, Supervised by Prof. Yepang Liu
 
 * National University of Defense Technology, 2017.9 - 2019.12
@@ -36,6 +36,7 @@ Teaching
 Service
 ======
 * Program Committee Member 
+  * 2024: [ICSE'24 AE Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation)
   * 2023: [ESEM'23](https://conf.researchr.org/home/esem-2023); [ICPC'23](https://conf.researchr.org/track/icpc-2023/icpc-2023-research); [MSR'23 Junior PC](https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc); [APR'23](http://program-repair.org/workshop-2023/)
   * 2022: [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research); [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge); [ISSTA'22 AE Track](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation); [ESEC/FSE'22 AE Track](https://2022.esec-fse.org/track/fse-2022-artifacts)
 * Reviewer
