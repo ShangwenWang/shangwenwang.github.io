@@ -15,6 +15,10 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 From the April of 2022, I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2023.07: Two works got accepted by [ESEC/FSE 2023](https://2023.esec-fse.org/) after major revisions. Congratulations to all the cooperators and a big big thank you!
+  * 2023.07: Invited to serve as a program committee member of [ICPC 2024](https://conf.researchr.org/track/icpc-2024/icpc-2024-research).
+  * 2023.07: Invited to serve as a program committee member of [ChinaSoft 2023](https://chinasoft.ccf.org.cn/) (Track: 面向复杂软件的缺陷检测与修复技术). 
+  * 2023.07: Our work CoCoGAN got accepted by [OOPSLA 2023](https://2023.splashcon.org/track/splash-2023-oopsla)! This is the first OOPSLA paper in the history of NUDT!
   * 2023.06: Our work on using LLMs for multi-intent comment generation got accepted by [ICSE 2024](https://conf.researchr.org/home/icse-2024). Congratulations to Mingyang!
   * 2023.05: Our work on the pre-trained model for code changes got accepted by [ESEC/FSE 2023](https://2023.esec-fse.org/). Congratulations to Bo!
   * 2023.04: My work on method name prediction finally got accepted by [TOSEM](https://dl.acm.org/journal/tosem)!
