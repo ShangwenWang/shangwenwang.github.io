@@ -1,0 +1,9 @@
+@article{wang2023two,
+  title={Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network},
+  author={Wang, Shangwen and Lin, Bo and Sun, Zhensu and Wen, Ming and Liu, Yepang and Lei, Yan and Mao, Xiaoguang},
+  journal={Proceedings of the ACM on Programming Languages},
+  number={OOPSLA2},
+  year={2023},
+  doi={10.1145/3622815},
+  publisher={ACM New York, NY, USA}
+}
