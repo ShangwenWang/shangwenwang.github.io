@@ -6,11 +6,16 @@ author_profile: true
 
 # 2024
 
-### ICSE'24
+### ICSE'24 A
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**
 in *Proceedings of the 46nd IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
-[[PDF]](http://shangwenwang.github.io/files/ICSE-24.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/LLM_Comment_Generation)
+[[PDF]](http://shangwenwang.github.io/files/ICSE-24A.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/LLM_Comment_Generation)
+### ICSE'24 B
+Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Li Li.
+**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**
+in *Proceedings of the 46nd IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
+[[PDF]](http://shangwenwang.github.io/files/ICSE-24B.pdf)  [[bib]]()  [[Artifacts]]()
 
 # 2023
 

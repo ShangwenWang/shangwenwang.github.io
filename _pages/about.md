@@ -15,6 +15,8 @@ Currently, I am a Ph.D student at National University of Defense Technology. I h
 From the April of 2022, I am a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2023.10: Our work on dynamic inference for code completion models got accepted by the second cycle of [ICSE 2024](https://conf.researchr.org/home/icse-2024)!
+  * 2023.09: Invited to serve as a program committee member of [EASE 2024](https://conf.researchr.org/home/ease-2024).
   * 2023.07: Two works got accepted by [ESEC/FSE 2023](https://2023.esec-fse.org/) after major revisions. Congratulations to all the cooperators and a big big thank you!
   * 2023.07: Invited to serve as a program committee member of [ICPC 2024](https://conf.researchr.org/track/icpc-2024/icpc-2024-research).
   * 2023.07: Invited to serve as a program committee member of [ChinaSoft 2023](https://chinasoft.ccf.org.cn/) (Track: 面向复杂软件的缺陷检测与修复技术). 
