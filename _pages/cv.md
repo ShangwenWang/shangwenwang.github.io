@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* National University of Defense Technology, 2020.3 - Now
+* National University of Defense Technology, 2020.3 - 2023.12(Expected)
   * Ph.D, Software Engineering, Supervised by Prof. Xiaoguang Mao
 
 * Southern University of Science and Technology, 2022.5 - 2023.7
