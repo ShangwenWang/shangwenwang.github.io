@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* National University of Defense Technology, 2020.3 - 2023.12(Expected)
+* National University of Defense Technology, 2020.3 - 2023.12
   * Ph.D, Software Engineering, Supervised by Prof. Xiaoguang Mao
   * Ph.D Thesis: Research on Key Techniques for Intelligent Programming
 
@@ -37,11 +37,12 @@ Teaching
 Service
 ======
 * Program Committee Member 
-  * 2024: [ICSE'24 AE Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation); [ICPC'24](https://conf.researchr.org/track/icpc-2024/icpc-2024-research); [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers); [EASE'24](https://conf.researchr.org/track/ease-2024/ease-2024-papers)
+  * 2025: [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)
+  * 2024: [ASE'24](https://conf.researchr.org/track/ase-2024/ase-2024-research); [ICSE'24 AE Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation); [ICPC'24](https://conf.researchr.org/track/icpc-2024/icpc-2024-research); [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers); [EASE'24](https://conf.researchr.org/track/ease-2024/ease-2024-papers)
   * 2023: [ESEM'23](https://conf.researchr.org/home/esem-2023); [ICPC'23](https://conf.researchr.org/track/icpc-2023/icpc-2023-research); [MSR'23 Junior PC](https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc); [APR'23](http://program-repair.org/workshop-2023/)
   * 2022: [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research); [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge); [ISSTA'22 AE Track](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation); [ESEC/FSE'22 AE Track](https://2022.esec-fse.org/track/fse-2022-artifacts)
 * Reviewer
-  * 2023: [TSE](https://www.computer.org/csdl/journal/ts)
+  * 2023: [TSE](https://www.computer.org/csdl/journal/ts); [TOSEM](https://dl.acm.org/journal/tosem); [EMSE](https://www.springer.com/journal/10664)
   * 2022: [EMSE](https://www.springer.com/journal/10664); [JSEP](https://onlinelibrary.wiley.com/journal/20477481)
 * External Reviewer
   * 2023: [ICSE'23](https://conf.researchr.org/home/icse-2023) 
@@ -53,5 +54,6 @@ Service
 
 Honor
 ======
+* Qiangjun Scholorship, NUDT, 2023 (Doctor period)
 * Guanghua Scholorship, NUDT, 2021 (Doctor period)
 * Qiangjun Scholorship, NUDT, 2019 (Master period)
