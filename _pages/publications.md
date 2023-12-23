@@ -10,11 +10,13 @@ author_profile: true
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**
 in *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 22.3% (234/1051)]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-24A.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/LLM_Comment_Generation)
 ### ICSE'24 B
 Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Li Li.
 **When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**
 in *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 22.3% (234/1051)]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-24B.pdf)  [[bib]]()  [[Artifacts]]()
 
 # 2023
@@ -23,25 +25,24 @@ in *Proceedings of the 46th IEEE/ACM International Conference on Software Engine
 **Shangwen Wang**, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Yan Lei, and Xiaoguang Mao.
 **Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network**
 in *Proceedings of the ACM Conference on Object-Oriented Programming Systems, Languages, and Applications*, Cascais, Portugal (OOPSLA’23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: ]**
 [[PDF]](http://shangwenwang.github.io/files/OOPSLA-23.pdf)  [[bib]](http://shangwenwang.github.io/files/OOPSLA-23.txt)  [[Artifacts]](https://github.com/ShangwenWang/CoCoGAN)
 ### ESEC/FSE'23 A
 **Shangwen Wang**, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Natural Language to Code: How Far are We?**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: ]**
+**[Acceptance rate: 27% (127/470)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23A.txt)  [[Artifacts]](https://doi.org/10.5281/zenodo.7546358)
 ### ESEC/FSE'23 B
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Yepang Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **CCT5: A Code-Change-Oriented Pre-Trained Model**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: ]**
+**[Acceptance rate: 27% (127/470)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23B.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23B.txt)  [[Artifacts]](https://github.com/Ringbo/CCT5)
 ### ESEC/FSE'23 C
 Xiaohu Du, Ming Wen, Zichao Wei, **Shangwen Wang**, and Hai Jin.
 **An Extensive Study on Adversarial Attack against Pre-trained Models of Code**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: ]**
+**[Acceptance rate: 27% (127/470)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23C.pdf)  [[bib]]()  [[Artifacts]](https://github.com/CGCL-codes/Attack_PTMC)
 ### TOSEM
 **Shangwen Wang**, Ming Wen, Bo Lin, Yepang Liu, Tegawendé F. Bissyandé, and Xiaoguang Mao.

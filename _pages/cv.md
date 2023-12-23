@@ -38,7 +38,7 @@ Service
 ======
 * Program Committee Member 
   * 2025: [ICSE'25](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)
-  * 2024: [ASE'24](https://conf.researchr.org/track/ase-2024/ase-2024-research); [ICSE'24 AE Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation); [ICPC'24](https://conf.researchr.org/track/icpc-2024/icpc-2024-research); [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers); [EASE'24](https://conf.researchr.org/track/ease-2024/ease-2024-papers)
+  * 2024: [CCS'24](https://www.sigsac.org/ccs/CCS2024/home.html); [ASE'24](https://conf.researchr.org/track/ase-2024/ase-2024-research); [ICSE'24 AE Track](https://conf.researchr.org/track/icse-2024/icse-2024-artifact-evaluation); [ICPC'24](https://conf.researchr.org/track/icpc-2024/icpc-2024-research); [SANER'24](https://conf.researchr.org/track/saner-2024/saner-2024-papers); [EASE'24](https://conf.researchr.org/track/ease-2024/ease-2024-papers)
   * 2023: [ESEM'23](https://conf.researchr.org/home/esem-2023); [ICPC'23](https://conf.researchr.org/track/icpc-2023/icpc-2023-research); [MSR'23 Junior PC](https://conf.researchr.org/track/msr-2023/msr-2023-junior-pc); [APR'23](http://program-repair.org/workshop-2023/)
   * 2022: [ICPC'22](https://conf.researchr.org/track/icpc-2022/icpc-2022-research); [MSR'22 Mining Challenge Track](https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge); [ISSTA'22 AE Track](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation); [ESEC/FSE'22 AE Track](https://2022.esec-fse.org/track/fse-2022-artifacts)
 * Reviewer
