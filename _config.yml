@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Changsha-China"
-title                    : "Shangwen Wang / Ph.D Student"
+title                    : "Shangwen Wang / Assistant Professor"
 title_separator          : "-"
 name                     : &name "Shangwen Wang"
-description              : &description "Ph.D Student at National University of Defense Technology"
+description              : &description "Assistant Professor at National University of Defense Technology"
 url                      : https://shangwenwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shangwenwang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Shangwen Wang"
   avatar           : "profile.png"
-  bio              : "A Ph.D student at National University of Defense Technology, who majors in program repair, software testing, program comprehension, mining software repositories, and AI4SE."
+  bio              : "An Assistant Professor at National University of Defense Technology, who majors in program repair, software testing, program comprehension, mining software repositories, and AI4SE."
   location         : "Changsha, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

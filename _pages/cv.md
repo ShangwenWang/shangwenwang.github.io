@@ -54,6 +54,7 @@ Service
 
 Honor
 ======
+* Outstanding Doctoral Graduates, NUDT, 2023
 * Qiangjun Scholorship, NUDT, 2023 (Doctor period)
 * Guanghua Scholorship, NUDT, 2021 (Doctor period)
 * Qiangjun Scholorship, NUDT, 2019 (Master period)

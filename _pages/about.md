@@ -10,11 +10,12 @@ redirect_from:
 
 Welcome to Shangwen Wang's (王尚文) homepage!
 
-Currently, I am a Ph.D student at National University of Defense Technology (will obtain my Ph.D degree soon in December 2023!). I have obtained my bachelor degree and master degree from NUDT at June, 2017 and December, 2019, respectively. During my master study, I was honored to be supervised by Prof. Xiaoguang Mao. My research interests mainly focus on AI4SE, program repair, software testing, software maintenance and evolution, mining software repositories, and empirical software engineering.
+Currently, I am an assistant professor at National University of Defense Technology. I have obtained my bachelor degree, master degree, and doctor degree from NUDT at June 2017, December 2019, and December 2023, respectively. During my master and doctor study, I was honored to be supervised by Prof. Xiaoguang Mao. My research interests mainly focus on AI4SE, program repair, software testing, software maintenance and evolution, mining software repositories, and empirical software engineering.
 
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2024.01: Thrilled to announce that I received the Outstanding Doctoral Graduates Award of NUDT!
   * 2023.12: Invited to serve as a program committee member of [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) under the Track of Software Security.
   * 2023.11: Invited to serve as a program committee member of [ICSE 2025](https://conf.researchr.org/home/icse-2025) and [ASE 2024](https://conf.researchr.org/home/ase-2024)!
   * 2023.10: Joined the PC team of [SANER 2024](https://conf.researchr.org/home/saner-2024)!

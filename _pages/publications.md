@@ -30,19 +30,19 @@ in *Proceedings of the ACM Conference on Object-Oriented Programming Systems, La
 **Shangwen Wang**, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Natural Language to Code: How Far are We?**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: 27% (127/470)]**
+**[Acceptance rate: 27% (127/465)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23A.txt)  [[Artifacts]](https://doi.org/10.5281/zenodo.7546358)
 ### ESEC/FSE'23 B
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Yepang Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **CCT5: A Code-Change-Oriented Pre-Trained Model**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: 27% (127/470)]**
+**[Acceptance rate: 27% (127/465)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23B.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23B.txt)  [[Artifacts]](https://github.com/Ringbo/CCT5)
 ### ESEC/FSE'23 C
 Xiaohu Du, Ming Wen, Zichao Wei, **Shangwen Wang**, and Hai Jin.
 **An Extensive Study on Adversarial Attack against Pre-trained Models of Code**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
-**[Acceptance rate: 27% (127/470)]**
+**[Acceptance rate: 27% (127/465)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23C.pdf)  [[bib]]()  [[Artifacts]](https://github.com/CGCL-codes/Attack_PTMC)
 ### TOSEM
 **Shangwen Wang**, Ming Wen, Bo Lin, Yepang Liu, Tegawendé F. Bissyandé, and Xiaoguang Mao.
