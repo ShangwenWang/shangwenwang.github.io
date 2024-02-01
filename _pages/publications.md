@@ -18,6 +18,12 @@ Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Li Li.
 in *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 22.3% (234/1051)]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-24B.pdf)  [[bib]]()  [[Artifacts]]()
+### ICPC'24
+Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Yao Lu.
+**CAREER: Context-Aware API Recognition with Data Augmentation for API Knowledge Extraction**
+in *Proceedings of the 32nd ACM/IEEE International Conference on Program Comprehension*, Lisbon, Portugal (ICPC'24, **CCF-B**).
+**[Acceptance rate: 38% (30/78)]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 
 # 2023
 
