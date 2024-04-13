@@ -6,6 +6,11 @@ author_profile: true
 
 # 2024
 
+### JoS (软件学报)
+Bo Lin, **Shangwen Wang**, and Xiaoguang Mao.
+**Automated Software Vulnerability Repair Based on Chain-of-Thought (基于思维链的软件漏洞自动修复技术研究)**
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+[[PDF]](http://shangwenwang.github.io/files/JoS-24.pdf)  [[bib]]()  
 ### ICSE'24 A
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**
@@ -27,11 +32,6 @@ in *Proceedings of the 32nd ACM/IEEE International Conference on Program Compreh
 
 # 2023
 
-### JoS (软件学报)
-Bo Lin, **Shangwen Wang**, and Xiaoguang Mao.
-**Automated Software Vulnerability Repair Based on Chain-of-Thought (基于思维链的软件漏洞自动修复技术研究)**
-in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
-[[PDF]](http://shangwenwang.github.io/files/JoS-24.pdf)  [[bib]]()  
 ### OOPSLA'23
 **Shangwen Wang**, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Yan Lei, and Xiaoguang Mao.
 **Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network**
