@@ -15,6 +15,7 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2024.05: Our work on fusing code searchers finally got accepted by IEEE TSE!
   * 2024.01: Thrilled to announce that I received the Outstanding Doctoral Graduates Award of NUDT!
   * 2023.12: Invited to serve as a program committee member of [CCS 2024](https://www.sigsac.org/ccs/CCS2024/home.html) under the Track of Software Security.
   * 2023.11: Invited to serve as a program committee member of [ICSE 2025](https://conf.researchr.org/home/icse-2025) and [ASE 2024](https://conf.researchr.org/home/ase-2024)!

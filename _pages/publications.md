@@ -6,6 +6,11 @@ author_profile: true
 
 # 2024
 
+### TSE
+**Shangwen Wang**, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, and Xiaoguang Mao.
+**Fusing Code Searchers**
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2024.
+[[PDF]](http://shangwenwang.github.io/files/TSE-24.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-24.txt)  [[Artifacts]](https://doi.org/10.5281/zenodo.7016108)
 ### JoS (软件学报)
 Bo Lin, **Shangwen Wang**, and Xiaoguang Mao.
 **Automated Software Vulnerability Repair Based on Chain-of-Thought (基于思维链的软件漏洞自动修复技术研究)**
