@@ -6,6 +6,12 @@ author_profile: true
 
 # 2024
 
+### ISSTA'24
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair**
+in *Proceedings of the 33rd International Symposium on Software Testing and Analysis*, Vienna, Austria (ISSTA'24, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 20.6% (143/694)]**
+[[PDF]](http://shangwenwang.github.io/files/ISSTA-24.pdf)  [[bib]]()  [[Artifacts]]()
 ### TSE
 **Shangwen Wang**, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Fusing Code Searchers**
