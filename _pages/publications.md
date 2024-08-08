@@ -10,12 +10,12 @@ author_profile: true
 Xinyu Sun, Wanwei Liu, **Shangwen Wang**, Tingyu Chen, Ye Tao, Xiaoguang Mao.
 **AutoRIC: Automated Neural Network Repairing Based on Constrained Optimization**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-24A.pdf)  [[bib]]()  [[Artifacts]]()
 ### TOSEM B
 Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Mingze Ni, Li Li, David Lo.
 **Don't Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-24B.pdf)  [[bib]]()  [[Artifacts]]()
 ### ISSTA'24
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair**
