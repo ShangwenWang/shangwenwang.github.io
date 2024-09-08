@@ -7,12 +7,17 @@ author_profile: true
 # 2024
 
 ### TOSEM A
-Xinyu Sun, Wanwei Liu, **Shangwen Wang**, Tingyu Chen, Ye Tao, Xiaoguang Mao.
-**AutoRIC: Automated Neural Network Repairing Based on Constrained Optimization**
+**Shangwen Wang**, Bo Lin, Liqian Chen, and Xiaoguang Mao.
+**Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-24A.pdf)  [[bib]]()  [[Artifacts]]()
 ### TOSEM B
-Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Mingze Ni, Li Li, David Lo.
+Xinyu Sun, Wanwei Liu, **Shangwen Wang**, Tingyu Chen, Ye Tao, and Xiaoguang Mao.
+**AutoRIC: Automated Neural Network Repairing Based on Constrained Optimization**
+in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-24B.pdf)  [[bib]]()  [[Artifacts]]()
+### TOSEM C
+Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Mingze Ni, Li Li, and David Lo.
 **Don't Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-24B.pdf)  [[bib]]()  [[Artifacts]]()
