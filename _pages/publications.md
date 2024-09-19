@@ -21,7 +21,7 @@ Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Mingze Ni, Li Li, and David
 **Don't Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-24B.pdf)  [[bib]]()  [[Artifacts]]()
-### ISSTA'24
+### ISSTA'24 🏆<font color="red">(ACM SIGSOFT Distinguished Paper Award!)</font>
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **One Size Does Not Fit All: Multi-Granularity Patch Generation for Better Automated Program Repair**
 in *Proceedings of the 33rd International Symposium on Software Testing and Analysis*, Vienna, Austria (ISSTA'24, **<font color="red">CCF-A</font>**).
