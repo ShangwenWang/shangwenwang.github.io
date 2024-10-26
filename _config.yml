@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Shangwen Wang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "An Assistant Professor at National University of Defense Technology, who majors in program repair, software testing, program comprehension, mining software repositories, and AI4SE."
   location         : "Changsha, China"
   employer         :
