@@ -7,7 +7,7 @@ author_profile: true
 # 2025
 
 ### ICSE'25 A
-Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, and Weimin Zhang.
+Xiaopeng Li, **Shangwen Wang<sup>\*</sup>**, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, and Weimin Zhang (<sup>\*</sup>Co-first author).
 **Model Editing for LLMs4Code: How Far are We?**
 in *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering*, Ottawa, Canada (ICSE'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
