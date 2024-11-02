@@ -4,6 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2025
+
+### ICSE'25 A
+Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, and Weimin Zhang.
+**Model Editing for LLMs4Code: How Far are We?**
+in *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering*, Ottawa, Canada (ICSE'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]](http://shangwenwang.github.io/files/ICSE-25A.pdf)  [[bib]]()  [[Artifacts]]()
+### ICSE'25 B
+Tanghaoran Zhang, Yue Yu, Xinjun Mao, **Shangwen Wang**, Kang Yang, Yao Lu, Zhang Zhang, and Yuxin Zhao.
+**Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering**
+in *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering*, Ottawa, Canada (ICSE'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]](http://shangwenwang.github.io/files/ICSE-25B.pdf)  [[bib]]()  [[Artifacts]]()
+
 # 2024
 
 ### TOSEM A
