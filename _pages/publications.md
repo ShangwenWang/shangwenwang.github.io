@@ -6,6 +6,12 @@ author_profile: true
 
 # 2025
 
+### SANER'25
+Zhang Zhang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Kang Yang, Tanghaoran Zhang, Fei Gao, and Xunhui Zhang (<sup>\*</sup>Corresponding author).
+**Improving API Knowledge Comprehensibility: A Context-Dependent Entity Detection and Context Completion Approach using LLM**
+in *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering*, Montréal, Québec, Canada (SANER'25, **CCF-B**).
+**[Acceptance rate: 24% (52/225)]**
+[[PDF]](http://shangwenwang.github.io/files/SANER-25.pdf)  [[bib]](http://shangwenwang.github.io/files/SANER-25.txt) [[Artifacts]]()
 ### ICSE'25 A
 Xiaopeng Li, **Shangwen Wang<sup>\*</sup>**, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, and Weimin Zhang (<sup>\*</sup>Co-first author).
 **Model Editing for LLMs4Code: How Far are We?**
