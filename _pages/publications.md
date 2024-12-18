@@ -6,6 +6,11 @@ author_profile: true
 
 # 2025
 
+### SCIS
+Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Kang Yang, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**GTE: Learning Code AST Representation Efficiently and Effectively**
+in *SCIENCE CHINA Information Sciences* (**<font color="red">CCF-A</font>**), 2025.
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### SANER'25
 Zhang Zhang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Kang Yang, Tanghaoran Zhang, Fei Gao, and Xunhui Zhang (<sup>\*</sup>Corresponding author).
 **Improving API Knowledge Comprehensibility: A Context-Dependent Entity Detection and Context Completion Approach using LLM**

@@ -16,6 +16,7 @@ From May 2022 to July 2023, I was a visiting student at Southern University of S
 
 * NEWS!
   * 2024.12: 王尚文入选2024年度CCF博士学位论文激励计划 (CCF优博)！
+  * 2024.12: Invited to serve as PCs for ICSE 2026 and CCS 2025.
   * 2024.12: Our work on API entity detection and context completion got accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025)! Congrats to Zhang Double!
   * 2024.10: Our works on model editing for LLMs4Code and LLM-based code adaptation got accepted by [ICSE 2025](https://conf.researchr.org/home/icse-2025)! Congrats to Xiaopeng and Tanghaoran!
   * 2024.09: Our ISSTA paper received the ACM SIGSOFT Distinguished Paper Award! Congrats to all the co-authors!
