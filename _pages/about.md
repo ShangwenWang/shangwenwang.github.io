@@ -15,8 +15,9 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2025.01: Our works on multi-intent code summarization for binary code and LLMs for dataset quality improvements got accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025) and [ICPC 2025](https://conf.researchr.org/home/icpc-2025). Congrats to Akali and Ahead!
   * 2024.12: 王尚文入选2024年度CCF博士学位论文激励计划 (CCF优博)！
-  * 2024.12: Invited to serve as PCs for ICSE 2026 and CCS 2025.
+  * 2024.12: Invited to serve as PCs for [ICSE 2026](https://conf.researchr.org/home/icse-2026), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), and [ICML 2025](https://icml.cc/)..
   * 2024.12: Our work on API entity detection and context completion got accepted by [SANER 2025](https://conf.researchr.org/home/saner-2025)! Congrats to Zhang Double!
   * 2024.10: Our works on model editing for LLMs4Code and LLM-based code adaptation got accepted by [ICSE 2025](https://conf.researchr.org/home/icse-2025)! Congrats to Xiaopeng and Tanghaoran!
   * 2024.09: Our ISSTA paper received the ACM SIGSOFT Distinguished Paper Award! Congrats to all the co-authors!
