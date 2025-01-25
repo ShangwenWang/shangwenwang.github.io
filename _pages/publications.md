@@ -6,6 +6,24 @@ author_profile: true
 
 # 2025
 
+### FSE'25
+Kangchen Zhu, Zhiliang Tian, **Shangwen Wang<sup>\*</sup>**, Weiguo Chen, Zixuan Dong, Mingyue Leng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**MiSum: Multi-Modality Heterogeneous Code Graph Learning for Multi-Intent Binary Code Summarization**
+in *the ACM International Conference on the Foundations of Software Engineering*, Trondheim, Norway (FSE'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### WWW'25
+Haotian Wang, Hao Zou, Xueguang Zhou, **Shangwen Wang**, Wenjing Yang, and Peng Cui.
+**Learning Feasible Causal Algorithmic Recourse: A Prior Structural Knowledge Free Approach**
+in *The 2025 ACM Web Conference*, Sydney, Australia (WWW'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 19.8% (409/2062)]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### ICPC'25
+Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yanlin Wang, Tanghaoran Zhang, Yihao Qin, Bo Lin, Zhang Zhang, Yao Lu, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
+**Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**
+in *Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension*, Ottawa, Canada (ICPC'25, **CCF-B**)
+**[Acceptance rate: 41% (38/92)]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### SCIS
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Kang Yang, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **GTE: Learning Code AST Representation Efficiently and Effectively**
