@@ -15,6 +15,7 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2025.02: Our work on LLM-based fault localization got accepted by IEEE TSE! Congrats to Yihao!
   * 2025.01: Our works on multi-intent code summarization for binary code and LLMs for dataset quality improvements got accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025) and [ICPC 2025](https://conf.researchr.org/home/icpc-2025). Congrats to Akali and Ahead!
   * 2024.12: 王尚文入选2024年度CCF博士学位论文激励计划 (CCF优博)！
   * 2024.12: Invited to serve as PCs for [ICSE 2026](https://conf.researchr.org/home/icse-2026), [CCS 2025](https://www.sigsac.org/ccs/CCS2025/), and [ICML 2025](https://icml.cc/)..
