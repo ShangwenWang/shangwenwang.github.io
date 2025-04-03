@@ -6,6 +6,22 @@ author_profile: true
 
 # 2025
 
+### IJCNN'25
+Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, **Shangwen Wang**, Xinran Hong, and Yongtao Tang.
+**LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment**
+in *2025 International Joint Conference on Neural Networks*, Rome, Italy (IJCNN'25, CCF-C).
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### EASE'25
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Shencong Zeng, Liqian Chen, and Xiaoguang Mao.
+**There are More Fish in the Sea: An Empirical Study on Automated Vulnerability Repair via Binary Templates**
+in *Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering*, (EASE'25, CCF-C).
+**[Acceptance rate: 27.0% (57/211)]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### JSEP
+Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Tanghaoran Zhang, and Yao Lu. 
+**CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM‐Based Data Augmentation**
+in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
+[[PDF]]()  [[bib]]() [[Artifacts]]()
 ### TSE
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao.
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
