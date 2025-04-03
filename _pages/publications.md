@@ -12,7 +12,7 @@ Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, **Sha
 in *2025 International Joint Conference on Neural Networks*, Rome, Italy (IJCNN'25, CCF-C).
 [[PDF]]()  [[bib]]() [[Artifacts]]()
 ### EASE'25
-Bo Lin, **Shangwen Wang<sup>\*</sup>**, Shencong Zeng, Liqian Chen, and Xiaoguang Mao.
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Shencong Zeng, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **There are More Fish in the Sea: An Empirical Study on Automated Vulnerability Repair via Binary Templates**
 in *Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering*, (EASE'25, CCF-C).
 **[Acceptance rate: 27.0% (57/211)]**
@@ -23,7 +23,7 @@ Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Tanghaoran Zhang, and Yao
 in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
 [[PDF]]()  [[bib]]() [[Artifacts]]()
 ### TSE
-Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao.
+Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
 [[PDF]](http://shangwenwang.github.io/files/TSE-25.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25.txt)  [[Artifacts]]( https://doi.org/10.5281/zenodo.10853388)
