@@ -6,6 +6,11 @@ author_profile: true
 
 # 2025
 
+### KDD'25
+Xiaopeng Li, Shasha Li, **Shangwen Wang**, Shezheng Song, Bin Ji, Huijun Liu, Ma Jun, and Jie Yu.
+**Identifying Knowledge Editing Types in Large Language Models**
+in *2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, Toronto, Canada (KDD'25, **<font color="red">CCF-A</font>**).
+[[PDF]]()  [[bib]]() [[Artifacts]]()
 ### IJCNN'25
 Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, **Shangwen Wang**, Xinran Hong, and Yongtao Tang.
 **LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment**
@@ -39,7 +44,7 @@ Haotian Wang, Hao Zou, Xueguang Zhou, **Shangwen Wang**, Wenjing Yang, and Peng 
 in *The 2025 ACM Web Conference*, Sydney, Australia (WWW'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 19.8% (409/2062)]**
 [[PDF]]()  [[bib]]() [[Artifacts]]()
-### ICPC'25
+### ICPC'25 🏆<font color="red">(ACM SIGSOFT Distinguished Paper Award!)</font>
 Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yanlin Wang, Tanghaoran Zhang, Yihao Qin, Bo Lin, Zhang Zhang, Yao Lu, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
 **Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**
 in *Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension*, Ottawa, Canada (ICPC'25, **CCF-B**)
