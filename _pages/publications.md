@@ -4,12 +4,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2026
+
+### ICSE'26
+Sheng Ouyang, Yihao Qin, Bo Lin, Liqian Chen, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
+**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**
+in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+
 # 2025
 
+### UIC'25
+Bojun Chen, Xiaoling Li, **Shangwen Wang**, Jun Ma, Jing Wang, Jin Li and Jie Yu.
+**Efficient Detection of Concurrency Bugs Based on Equivalent Thread Interleaving Priorities**
+in *Proceedings of the 22nd IEEE International Conference on Ubiquitous Intelligence and Computing*, Calgary, Alberta, Canada (UIC'25, CCF-C).
+**[Acceptance rate: 15%]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### KDD'25
 Xiaopeng Li, Shasha Li, **Shangwen Wang**, Shezheng Song, Bin Ji, Huijun Liu, Ma Jun, and Jie Yu.
 **Identifying Knowledge Editing Types in Large Language Models**
 in *2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, Toronto, Canada (KDD'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
 [[PDF]]()  [[bib]]() [[Artifacts]]()
 ### IJCNN'25
 Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, **Shangwen Wang**, Xinran Hong, and Yongtao Tang.
