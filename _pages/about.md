@@ -15,6 +15,7 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2025.07: Three journal papers got accepted in one week! Congrats to Xin, Bo, and Yihao!
   * 2025.06: Our work on jailbreaking code generation got accepted by [ICSE 2026](https://conf.researchr.org/home/icse-2026)! Congrats to Ouyang!
   * 2025.02: Our work on LLM-based fault localization got accepted by IEEE TSE! Congrats to Yihao!
   * 2025.01: Our works on multi-intent code summarization for binary code and LLMs for dataset quality improvements got accepted by [FSE 2025](https://conf.researchr.org/home/fse-2025) and [ICPC 2025](https://conf.researchr.org/home/icpc-2025). Congrats to Akali and Ahead!
