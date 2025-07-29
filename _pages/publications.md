@@ -15,6 +15,21 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 
 # 2025
 
+### TOSEM
+Yihao Qin,  **Shangwen Wang<sup>\*</sup>**, Yan Lei, Zhuo Zhang, Bo Lin, Xin Peng, Jun Ma, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Fault Localization from the Semantic Code Search Perspective**
+in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2025.
+[[PDF]](http://shangwenwang.github.io/files/TOSEM-25.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-25.txt)  [[Artifacts]]()
+### TSE C
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Large Language Models-Aided Program Debloating**
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
+[[PDF]](http://shangwenwang.github.io/files/TSE-25C.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25C.txt)  [[Artifacts]]()
+### TSE B
+Xin Peng, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Bo Lin, Liqian Chen, Jieren Cheng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Keep It Simple: Self-Adaptive Code Graph Simplification for Accurate Vulnerability Detection**
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
+[[PDF]](http://shangwenwang.github.io/files/TSE-25B.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25B.txt)  [[Artifacts]]()
 ### UIC'25
 Bojun Chen, Xiaoling Li, **Shangwen Wang**, Jun Ma, Jing Wang, Jin Li and Jie Yu.
 **Efficient Detection of Concurrency Bugs Based on Equivalent Thread Interleaving Priorities**
@@ -43,7 +58,7 @@ Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Tanghaoran Zhang, and Yao
 **CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM‐Based Data Augmentation**
 in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
 [[PDF]]()  [[bib]]() [[Artifacts]]()
-### TSE
+### TSE A
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
