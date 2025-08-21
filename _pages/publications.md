@@ -15,13 +15,13 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 
 # 2025
 
-### CCS
+### CCS'25
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection**
 in *Proceedings the 32nd ACM Conference on Computer and Communications Security*, Taipei, Taiwan, China (CCS'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
-### ASE
+### ASE'25
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Xin Peng, Sheng Ouyang, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization**
 in *Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering*, Seoul, South Korea, (ASE'25, **<font color="red">CCF-A</font>**).
