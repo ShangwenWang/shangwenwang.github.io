@@ -15,6 +15,12 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 
 # 2025
 
+### ISPA'25
+Bojun Chen, Xiaoling Li, **Shangwen Wang**, Jun Ma, Jing Wang and Jie Yu.
+**Efficient Concurrency Testing via Coverage-Guided Scheduler**
+in *2025 IEEE International Symposium on Parallel and Distributed Processing with Applications*, Shenyang, China (ISPA'25, CCF-C).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### CCS'25
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection**
