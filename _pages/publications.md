@@ -127,13 +127,13 @@ Zhang Zhang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Kang Yang, Tanghaoran Z
 in *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering*, Montréal, Québec, Canada (SANER'25, **CCF-B**).
 **[Acceptance rate: 24% (52/225)]**
 [[PDF]](http://shangwenwang.github.io/files/SANER-25.pdf)  [[bib]](http://shangwenwang.github.io/files/SANER-25.txt) [[Artifacts]]()
-### ICSE'25 A
+### ICSE'25 ①
 Xiaopeng Li, **Shangwen Wang<sup>\*</sup>**, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, and Weimin Zhang (<sup>\*</sup>Co-first author).
 **Model Editing for LLMs4Code: How Far are We?**
 in *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering*, Ottawa, Canada (ICSE'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-25A.pdf)  [[bib]]()  [[Artifacts]]()
-### ICSE'25 B
+### ICSE'25 ②
 Tanghaoran Zhang, Yue Yu, Xinjun Mao, **Shangwen Wang**, Kang Yang, Yao Lu, Zhang Zhang, and Yuxin Zhao.
 **Instruct or Interact? Exploring and Eliciting LLMs’ Capability in Code Snippet Adaptation Through Prompt Engineering**
 in *Proceedings of the 47th IEEE/ACM International Conference on Software Engineering*, Ottawa, Canada (ICSE'25, **<font color="red">CCF-A</font>**).
@@ -142,17 +142,17 @@ in *Proceedings of the 47th IEEE/ACM International Conference on Software Engine
 
 # 2024
 
-### TOSEM A
+### TOSEM ①
 **Shangwen Wang**, Bo Lin, Liqian Chen, and Xiaoguang Mao.
 **Divide-and-Conquer: Automating Code Revisions via Localization-and-Revision**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-24A.pdf)  [[bib]]()  [[Artifacts]]()
-### TOSEM B
+### TOSEM ②
 Xinyu Sun, Wanwei Liu, **Shangwen Wang**, Tingyu Chen, Ye Tao, and Xiaoguang Mao.
 **AutoRIC: Automated Neural Network Repairing Based on Constrained Optimization**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-24B.pdf)  [[bib]]()  [[Artifacts]]()
-### TOSEM C
+### TOSEM ③
 Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Mingze Ni, Li Li, and David Lo.
 **Don't Complete It! Preventing Unhelpful Code Completion for Productive and Sustainable Neural Code Completion Systems**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2024.
@@ -173,13 +173,13 @@ Bo Lin, **Shangwen Wang**, and Xiaoguang Mao.
 **Automated Software Vulnerability Repair Based on Chain-of-Thought (基于思维链的软件漏洞自动修复技术研究)**
 in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
 [[PDF]](http://shangwenwang.github.io/files/JoS-24.pdf)  [[bib]]()  
-### ICSE'24 A
+### ICSE'24 ①
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
 **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning**
 in *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 22.3% (234/1051)]**
 [[PDF]](http://shangwenwang.github.io/files/ICSE-24A.pdf)  [[bib]]()  [[Artifacts]](https://github.com/gmy2013/LLM_Comment_Generation)
-### ICSE'24 B
+### ICSE'24 ②
 Zhensu Sun, Xiaoning Du, Fu Song, **Shangwen Wang**, Li Li.
 **When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**
 in *Proceedings of the 46th IEEE/ACM International Conference on Software Engineering*, Lisbon, Portugal (ICSE'24, **<font color="red">CCF-A</font>**).
@@ -199,19 +199,19 @@ in *Proceedings of the 32nd ACM/IEEE International Conference on Program Compreh
 **Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network**
 in *Proceedings of the ACM Conference on Object-Oriented Programming Systems, Languages, and Applications*, Cascais, Portugal (OOPSLA’23, **<font color="red">CCF-A</font>**).
 [[PDF]](http://shangwenwang.github.io/files/OOPSLA-23.pdf)  [[bib]](http://shangwenwang.github.io/files/OOPSLA-23.txt)  [[Artifacts]](https://github.com/ShangwenWang/CoCoGAN)
-### ESEC/FSE'23 A
+### ESEC/FSE'23 ①
 **Shangwen Wang**, Mingyang Geng, Bo Lin, Zhensu Sun, Ming Wen, Yepang Liu, Li Li, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Natural Language to Code: How Far are We?**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 27% (127/465)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23A.txt)  [[Artifacts]](https://doi.org/10.5281/zenodo.7546358)
-### ESEC/FSE'23 B
+### ESEC/FSE'23 ②
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Zhongxin Liu, Yepang Liu, Xin Xia, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **CCT5: A Code-Change-Oriented Pre-Trained Model**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 27% (127/465)]**
 [[PDF]](http://shangwenwang.github.io/files/FSE-23B.pdf)  [[bib]](http://shangwenwang.github.io/files/FSE-23B.txt)  [[Artifacts]](https://github.com/Ringbo/CCT5)
-### ESEC/FSE'23 C
+### ESEC/FSE'23 ③
 Xiaohu Du, Ming Wen, Zichao Wei, **Shangwen Wang**, and Hai Jin.
 **An Extensive Study on Adversarial Attack against Pre-trained Models of Code**
 in *Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, San Francisco, USA (ESEC/FSE'23, **<font color="red">CCF-A</font>**).
@@ -227,13 +227,13 @@ in *ACM Transactions on Software Engineering and Methodology* (**<font color="re
 **Fine-Grained Fault Localization Based on Pointer Neural Network (基于指针神经网络的细粒度缺陷定位研究)**
 in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
 [[PDF]](http://shangwenwang.github.io/files/JoS-23.pdf)  [[bib]]()  
-### ICPC'23 A
+### ICPC'23 ①
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Shaomeng Cao, Kechi Zhang, and Zhi Jin (<sup>\*</sup>Corresponding author).
 **Interpretation-based Code Summarization**
 in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
 **[Acceptance rate: 32% (22/67)]**
 [[PDF]](http://shangwenwang.github.io/files/ICPC-23A.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-23A.txt)  [[Artifacts]](https://github.com/gmy2013/Icser)
-### ICPC'23 B
+### ICPC'23 ②
 Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Yao Lu, Tanghaoran Zhang, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
 **An Extensive Study of the Structure Features in Transformer-based Code Semantic Summarization**
 in *Proceedings of the 31st ACM/IEEE International Conference on Program Comprehension*, Melbourne, Australia (ICPC'23, **CCF-B**).
@@ -243,13 +243,13 @@ in *Proceedings of the 31st ACM/IEEE International Conference on Program Compreh
 
 # 2022
 
-### ASE'22 A
+### ASE'22 ①
 Haoye Tian, Xunzhu Tang, Andrew Habib, **Shangwen Wang**, Kui Liu, Xin Xia, Jacques Klein, and Tegawendé F. Bissyandé.
 **Is this Change the Answer to that Problem? Correlating Descriptions of Bug and Code Changes for Evaluating Patch Correctness**
 in *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering*, Michigan, United States (ASE'22, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 22.0% (116/527)]**
 [[PDF]](http://shangwenwang.github.io/files/ASE-22A.pdf) [[bib]](http://shangwenwang.github.io/files/ASE-22A.txt)
-### ASE'22 B
+### ASE'22 ②
 Zhuo Zhang, Yan Lei, Meng Yan, Yue Yu, Jiachi Chen, **Shangwen Wang**, and Xiaoguang Mao.
 **Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach**
 in *Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering*, Michigan, United States (ASE'22, **<font color="red">CCF-A</font>**).
@@ -272,13 +272,13 @@ Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Shanzhi Gu, Fang Peng
 in *Proceedings of the 30th ACM/IEEE International Conference on Program Comprehension*, Virtual (ICPC'22, **CCF-B**).
 **[Acceptance rate: 47% (48/102)]**
 [[PDF]](http://shangwenwang.github.io/files/ICPC-22.pdf)  [[bib]](http://shangwenwang.github.io/files/ICPC-22.txt)  [[Artifacts]](https://github.com/gmy2013/FOSTERER)
-### SANER'22 A 🏆<font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
+### SANER'22 ① 🏆<font color="red">(IEEE TCSE Distinguished Paper Award!)</font>
 Menghan Wu, Yang Zhang, Jiakun Liu, **Shangwen Wang**, Zhang Zhang, Xin Xia, and Xinjun Mao.
 **On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, Honolulu, Hawaii (SANER'22, **CCF-B**).
 **[Acceptance rate: 24% (48/199)]**
 [[PDF]](http://shangwenwang.github.io/files/SANER-22A.pdf)  [[bib]](http://shangwenwang.github.io/files/SANER-22A.txt) [[Artifacts]](https://doi.org/10.5281/zenodo.5574860)
-### SANER'22 B
+### SANER'22 ②
 Yinyuan Zhang, Yang Zhang, Xinjun Mao, Yiwen Wu, Bo Lin, **Shangwen Wang**.
 **Recommending Base Image for Docker Containers based on Deep Configuration Comprehension**
 in *Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering*, ERA Track, Honolulu, Hawaii (SANER'22, **CCF-B**).
@@ -323,12 +323,12 @@ in *Proceedings of the 28th IEEE International Conference on Software Analysis, 
 
 # 2020
 
-### APSEC'20 A
+### APSEC'20 ①
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Ming Wen, Zhang Zhang, Hongjun Wu, Yihao Qin, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Understanding the Non-Repairability Factors of Automated Program Repair Techniques**
 in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
 [[PDF]](http://shangwenwang.github.io/files/APSEC-20A.pdf)  [[bib]](http://shangwenwang.github.io/files/APSEC-20A.txt)
-### APSEC'20 B
+### APSEC'20 ②
 Zhang Zhang, Xinjun Mao, Yao Lu, **Shangwen Wang**, and Jinyu Lu.
 **An Empirical Study on the Influence of Social Interactions for the Acceptance of Answers in Stack Overflow**
 in *Proceedings of the 27th Asia-Pacific Software Engineering Conference*, Singapore (APSEC'20, CCF-C).
