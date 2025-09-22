@@ -15,6 +15,23 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 
 # 2025
 
+### NeurIPS'25
+Xiaopeng Li, **Shangwen Wang**, Shasha Li, Shezheng Song, Bin Ji, Ma Jun, and Jie Yu.
+**Rethinking Residual Distribution in Locate-then-Edit Model Editing**
+in *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*, San Diego, USA (NeurIPS'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 24.52% (5290/21575)]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### APSEC'25
+Jingxiang Tu, Bo Lin, Yihao Qin, **Shangwen Wang**, Liqian Chen, and Xiaoguang Mao.
+**Trace: Test Repair via Agent-based Context Extraction with LLMs**
+in *32nd Asia-Pacific Software Engineering Conference*, Macao, China (APSEC'25, CCF-C).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### TSE ④
+Yating Zhang, Wei Dong, Jiaxin Liu, **Shangwen Wang**, Deze Wang, Tiecheng Ma, Yiwei Li, and Kang Yang.
+**A Little Help Goes a Long Way: Tutoring LLMs in Solving Competitive Programming through Hints**
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### ISPA'25
 Bojun Chen, Xiaoling Li, **Shangwen Wang**, Jun Ma, Jing Wang and Jie Yu.
 **Efficient Concurrency Testing via Coverage-Guided Scheduler**
@@ -34,16 +51,16 @@ in *Proceedings of the 40th IEEE/ACM International Conference on Automated Softw
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### TOSEM
-Yihao Qin,  **Shangwen Wang<sup>\*</sup>**, Yan Lei, Zhuo Zhang, Bo Lin, Xin Peng, Jun Ma, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yan Lei, Zhuo Zhang, Bo Lin, Xin Peng, Jun Ma, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Fault Localization from the Semantic Code Search Perspective**
 in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2025.
 [[PDF]](http://shangwenwang.github.io/files/TOSEM-25.pdf)  [[bib]](http://shangwenwang.github.io/files/TOSEM-25.txt)  [[Artifacts]]()
-### TSE C
+### TSE ③
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Large Language Models-Aided Program Debloating**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
 [[PDF]](http://shangwenwang.github.io/files/TSE-25C.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25C.txt)  [[Artifacts]]()
-### TSE B
+### TSE ②
 Xin Peng, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Bo Lin, Liqian Chen, Jieren Cheng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Keep It Simple: Self-Adaptive Code Graph Simplification for Accurate Vulnerability Detection**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
@@ -76,7 +93,7 @@ Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Tanghaoran Zhang, and Yao
 **CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM‐Based Data Augmentation**
 in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
 [[PDF]]()  [[bib]]() [[Artifacts]]()
-### TSE A
+### TSE ①
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
