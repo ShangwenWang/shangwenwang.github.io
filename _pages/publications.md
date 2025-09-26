@@ -11,7 +11,7 @@ Sheng Ouyang, Yihao Qin, Bo Lin, Liqian Chen, Xiaoguang Mao, and **Shangwen Wang
 **Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**
 in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2503.17953)  [[bib]]()  [[Artifacts]]()
 
 # 2025
 
@@ -20,7 +20,7 @@ Xiaopeng Li, **Shangwen Wang**, Shasha Li, Shezheng Song, Bin Ji, Ma Jun, and Ji
 **Rethinking Residual Distribution in Locate-then-Edit Model Editing**
 in *The Thirty-Ninth Annual Conference on Neural Information Processing Systems*, San Diego, USA (NeurIPS'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 24.52% (5290/21575)]**
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2502.03748?)  [[bib]]()  [[Artifacts]]()
 ### APSEC'25
 Jingxiang Tu, Bo Lin, Yihao Qin, **Shangwen Wang**, Liqian Chen, and Xiaoguang Mao.
 **Trace: Test Repair via Agent-based Context Extraction with LLMs**
@@ -43,7 +43,7 @@ Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Ma
 **Give LLMs a Security Course: Securing Retrieval-Augmented Code Generation via Knowledge Injection**
 in *Proceedings the 32nd ACM Conference on Computer and Communications Security*, Taipei, Taiwan, China (CCS'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
-[[PDF]]()  [[bib]]()  [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2504.16429)  [[bib]]()  [[Artifacts]]()
 ### ASE'25 ①
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Xin Peng, Sheng Ouyang, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization**
@@ -82,23 +82,23 @@ Xiaopeng Li, Shasha Li, **Shangwen Wang**, Shezheng Song, Bin Ji, Huijun Liu, Ma
 **Identifying Knowledge Editing Types in Large Language Models**
 in *2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*, Toronto, Canada (KDD'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
-[[PDF]]()  [[bib]]() [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2409.19663)  [[bib]]() [[Artifacts]]()
 ### IJCNN'25
 Binrui Zeng, Bin Ji, Xiaodong Liu, Jie Yu, Shasha Li, Jun Ma, Xiaopeng Li, **Shangwen Wang**, Xinran Hong, and Yongtao Tang.
 **LSAQ: Layer-Specific Adaptive Quantization for Large Language Model Deployment**
 in *2025 International Joint Conference on Neural Networks*, Rome, Italy (IJCNN'25, CCF-C).
-[[PDF]]()  [[bib]]() [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2412.18135?)  [[bib]]() [[Artifacts]]()
 ### EASE'25
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Shencong Zeng, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **There are More Fish in the Sea: An Empirical Study on Automated Vulnerability Repair via Binary Templates**
 in *Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering*, (EASE'25, CCF-C).
 **[Acceptance rate: 27.0% (57/211)]**
-[[PDF]]()  [[bib]]() [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2411.18088)  [[bib]]() [[Artifacts]]()
 ### JSEP
 Zhang Zhang, Xinjun Mao, **Shangwen Wang**, Kang Yang, Tanghaoran Zhang, and Yao Lu. 
 **CARLDA: An Approach for Stack Overflow API Mention Recognition Driven by Context and LLM‐Based Data Augmentation**
 in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
-[[PDF]]()  [[bib]]() [[Artifacts]]()
+[[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.70015)  [[bib]]() [[Artifacts]]()
 ### TSE ①
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
@@ -115,7 +115,7 @@ Haotian Wang, Hao Zou, Xueguang Zhou, **Shangwen Wang**, Wenjing Yang, and Peng 
 **Learning Feasible Causal Algorithmic Recourse: A Prior Structural Knowledge Free Approach**
 in *The 2025 ACM Web Conference*, Sydney, Australia (WWW'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: 19.8% (409/2062)]**
-[[PDF]]()  [[bib]]() [[Artifacts]]()
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714859)  [[bib]]() [[Artifacts]]()
 ### ICPC'25 🏆<font color="red">(ACM SIGSOFT Distinguished Paper Award!)</font>
 Kang Yang, Xinjun Mao, **Shangwen Wang<sup>\*</sup>**, Yanlin Wang, Tanghaoran Zhang, Yihao Qin, Bo Lin, Zhang Zhang, Yao Lu, and Kamal Al-Sabahi (<sup>\*</sup>Corresponding author).
 **Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**
