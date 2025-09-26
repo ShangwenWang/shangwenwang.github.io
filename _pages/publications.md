@@ -65,12 +65,12 @@ in *ACM Transactions on Software Engineering and Methodology* (**<font color="re
 Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Large Language Models-Aided Program Debloating**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
-[[PDF]](http://shangwenwang.github.io/files/TSE-25C.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25C.txt)  [[Artifacts]]()
+[[PDF]](https://arxiv.org/pdf/2503.08969)  [[bib]](http://shangwenwang.github.io/files/TSE-25C.txt)  [[Artifacts]]()
 ### TSE ②
 Xin Peng, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Bo Lin, Liqian Chen, Jieren Cheng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Keep It Simple: Self-Adaptive Code Graph Simplification for Accurate Vulnerability Detection**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
-[[PDF]](http://shangwenwang.github.io/files/TSE-25B.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25B.txt)  [[Artifacts]]()
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/11099046)  [[bib]](http://shangwenwang.github.io/files/TSE-25B.txt)  [[Artifacts]]()
 ### UIC'25
 Bojun Chen, Xiaoling Li, **Shangwen Wang**, Jun Ma, Jing Wang, Jin Li and Jie Yu.
 **Efficient Detection of Concurrency Bugs Based on Equivalent Thread Interleaving Priorities**
@@ -103,7 +103,7 @@ in *Journal of Software: Evolution and Process* (JSEP, **CCF-B**).
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Yiling Lou, Jinhao Dong, Kaixin Wang, Xiaoling Li, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **SoapFL: A Standard Operating Procedure for LLM-based Method-Level Fault Localization**
 in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2025.
-[[PDF]](http://shangwenwang.github.io/files/TSE-25.pdf)  [[bib]](http://shangwenwang.github.io/files/TSE-25.txt)  [[Artifacts]]( https://doi.org/10.5281/zenodo.10853388)
+[[PDF]](https://ieeexplore.ieee.org/abstract/document/10891926)  [[bib]](http://shangwenwang.github.io/files/TSE-25.txt)  [[Artifacts]]( https://doi.org/10.5281/zenodo.10853388)
 ### FSE'25
 Kangchen Zhu, Zhiliang Tian, **Shangwen Wang<sup>\*</sup>**, Weiguo Chen, Zixuan Dong, Mingyue Leng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **MiSum: Multi-Modality Heterogeneous Code Graph Learning for Multi-Intent Binary Code Summarization**
