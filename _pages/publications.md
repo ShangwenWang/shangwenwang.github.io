@@ -44,9 +44,15 @@ Bo Lin, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Liqian Chen, and Xiaoguang Ma
 in *Proceedings the 32nd ACM Conference on Computer and Communications Security*, Taipei, Taiwan, China (CCS'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
-### ASE'25
+### ASE'25 ①
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Xin Peng, Sheng Ouyang, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Let the Code Speak: Incorporating Program Dynamic State for Better Method-Level Fault Localization**
+in *Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering*, Seoul, South Korea, (ASE'25, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### ASE'25 ②
+Tanghaoran Zhang, Xinjun Mao, **Shangwen Wang**, Yuxin Zhao, Yao Lu, Jin Zhang, Zhang Zhang, Kang Yang, and Yue Yu.
+**AdaptEval: A Benchmark for Evaluating Large Language Models on Code Snippet Adaptation**
 in *Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering*, Seoul, South Korea, (ASE'25, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
