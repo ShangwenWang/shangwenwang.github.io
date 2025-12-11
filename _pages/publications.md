@@ -15,6 +15,11 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 
 # 2025
 
+### JoS (软件学报)
+Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Liqian Chen, Wanwei Liu, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Boosting Large Language Model-based Fault Localization with Parallel Search (基于并行搜索的大模型缺陷定位增强方法)**
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+[[PDF]]()  [[bib]]()  
 ### NeurIPS'25
 Xiaopeng Li, **Shangwen Wang**, Shasha Li, Shezheng Song, Bin Ji, Ma Jun, and Jie Yu.
 **Rethinking Residual Distribution in Locate-then-Edit Model Editing**
