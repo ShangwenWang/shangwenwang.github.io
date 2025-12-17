@@ -19,7 +19,7 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### ICSE'26 ③
-Ying Xiao, Shangwen Wang, Sicen Liu, Dingyuan Xue, Xian Zhan, Yepang Liu, and Jie Zhang.
+Ying Xiao, **Shangwen Wang**, Sicen Liu, Dingyuan Xue, Xian Zhan, Yepang Liu, and Jie Zhang.
 **Fairness Is Not Just Ethical: Performance Trade-Off via Data Correlation Tuning to Mitigate Bias in ML Software**
 in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
