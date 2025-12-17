@@ -6,12 +6,24 @@ author_profile: true
 
 # 2026
 
-### ICSE'26
+### ICSE'26 ①
 Sheng Ouyang, Yihao Qin, Bo Lin, Liqian Chen, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
 **Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**
 in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]](https://arxiv.org/pdf/2503.17953)  [[bib]]()  [[Artifacts]]()
+### ICSE'26 ②
+Kangchen Zhu, Zhiliang Tian, **Shangwen Wang<sup>\*</sup>**, Mingyue Leng, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Atomizer: An LLM-based Collaborative Multi-Agent Framework for Intent-Driven Commit Untangling**
+in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### ICSE'26 ③
+Ying Xiao, Shangwen Wang, Sicen Liu, Dingyuan Xue, Xian Zhan, Yepang Liu, and Jie Zhang.
+**Fairness Is Not Just Ethical: Performance Trade-Off via Data Correlation Tuning to Mitigate Bias in ML Software**
+in *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering*, Rio de Janeiro, Brazil (ICSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 
 # 2025
 
