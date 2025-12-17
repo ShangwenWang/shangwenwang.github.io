@@ -15,6 +15,7 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2025.12: Our works on Commit Untangling and ML Software Fairness got accepted by [ICSE 2026](https://conf.researchr.org/home/icse-2026)! Congrats to Kangchen and Showing! Our work on fairness starts from 2022, when I was a visting student at SUSTech. OMG, really a long time ago. I very very miss those days in Tanglang, Shenzhen! 
   * 2025.08: Our work on defending against data poisoning for retrieval-augmented code generation got accepted by [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! Congrats to Bo! This is the first "big four" paper in our group! 
   * 2025.08: Our work on LLM-based fault localization augmented by dynamic program states got accepted by [ASE 2025](https://conf.researchr.org/home/ase-2025)! Congrats to Yihao!
   * 2025.07: Three journal papers got accepted in one week! Congrats to Xin, Bo, and Yihao!
