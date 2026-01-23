@@ -6,6 +6,23 @@ author_profile: true
 
 # 2026
 
+### FSE'26
+Tanghaoran Zhang, Xinjun Mao, **Shangwen Wang**, Yuxin Zhao, Yao Lu, Zezhou Tang, Wenyu Xu, Longfei Sun, Changrong Xie, Kang Yang, and Yue Yu.
+**Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation**
+in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### WWW'26
+Xiaopeng Li, Shasha Li, Xi Wang, Shezheng Song, Bin Ji, **Shangwen Wang**, Jun Ma, Xiaodong Liu, Mina Liu, and Jie Yu.
+**EMSEdit: Efficient Multi-Step Meta-Learning-based Model Editing**
+in *The 2026 ACM Web Conference*, Dubai, United Arab Emirates (WWW'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: 20.1% (676/3370)]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### Neural Networks
+Shanzhi Gu, Zhaoyang Qu, Ruotong Geng, Mingyang Geng, **Shangwen Wang**, Chuanfu Xu, Haotian Wang, Zhipeng Lin, and Dezun Dong.
+**Mitigating sensitive information leakage in LLMs4Code through machine unlearning**
+in *Neural Networks* Volume 198, June 2026, 108606 (**CCF-B**).
+[[PDF]]()  [[bib]]() [[Artifacts]]()
 ### ICSE'26 ①
 Sheng Ouyang, Yihao Qin, Bo Lin, Liqian Chen, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
 **Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**
