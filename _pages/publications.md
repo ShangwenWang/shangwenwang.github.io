@@ -6,7 +6,19 @@ author_profile: true
 
 # 2026
 
-### FSE'26
+### FSE'26 ①
+Xin Peng, Bo Lin, Jing Wang, Xiaoling Li, Jun Ma, Jie Yu, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
+**Three Heads Are Better Than One: A Multi-Perspective Reasoning Framework for Enhanced Vulnerability Detection**
+in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### FSE'26 ②
+Yinggang Qiu, Yihao Qin, Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, and Dezun Dong (<sup>\*</sup>Corresponding author).
+**One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks**
+in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]() [[Artifacts]]()
+### FSE'26 ③
 Tanghaoran Zhang, Xinjun Mao, **Shangwen Wang**, Yuxin Zhao, Yao Lu, Zezhou Tang, Wenyu Xu, Longfei Sun, Changrong Xie, Kang Yang, and Yue Yu.
 **Coding in a Bubble? Evaluating LLMs in Resolving Context Adaptation Bugs During Code Adaptation**
 in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
