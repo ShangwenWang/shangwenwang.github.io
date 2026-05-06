@@ -15,7 +15,7 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
-  * 2026.04: Our works on vulnerability detection and repair got accepted by [ISSTA 2026](https://conf.researchr.org/home/issta-2026) and IEEE TDSC! Congrats to Xin Peng, the Little Bear Peng :bear:!
+  * 2026.04: Our works on vulnerability detection and repair got accepted by [ISSTA 2026](https://conf.researchr.org/home/issta-2026) and IEEE TDSC! Congrats to Xin Peng, the Little Bear Peng ![Bear](https://img.shields.io/badge/Status-Cute_Bear-orange?style=for-the-badge&logo=target)!
   * 2026.03: Our works on Vulnerability Detection, Model Merging, and Code Adaptation got accepted by [FSE 2026](https://conf.researchr.org/home/fse-2026)! Congrats to Xin, Yinggang, and Haoran!
   * 2025.12: Our works on Commit Untangling and ML Software Fairness got accepted by [ICSE 2026](https://conf.researchr.org/home/icse-2026)! Congrats to Kangchen and Showing! Our work on fairness starts from 2022, when I was a visting student at SUSTech. OMG, really a long time ago. I very very miss those days in Tanglang, Shenzhen! 
   * 2025.08: Our work on defending against data poisoning for retrieval-augmented code generation got accepted by [CCS 2025](https://www.sigsac.org/ccs/CCS2025/)! Congrats to Bo! This is the first "big four" paper in our group! 
