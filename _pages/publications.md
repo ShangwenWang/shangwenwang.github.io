@@ -6,6 +6,26 @@ author_profile: true
 
 # 2026
 
+### TDSC
+Xin Peng, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Clara: A Cross-modal Learning Framework for Enhanced Vulnerability Detection**
+in *IEEE Transactions on Dependable and Secure Computing* (**<font color="red">CCF-A</font>**), 2026.
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### TSE
+Bo Lin, **Shangwen Wang<sup>\*</sup>**, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**Exploring the Security Threats of Knowledge Base Poisoning in Retrieval-Augmented Code Generation**
+in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>**), 2026.
+[[PDF]](https://arxiv.org/pdf/2502.03233)  [[bib]]()  [[Artifacts]]()
+### ISSTA'26
+Xin Peng, Bo Lin, Yihao Qin, Jing Wang, Xin Zhao, Xiaoling Li, Jun Ma, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
+**Just Old Wine in a New Bottle: Improving Vulnerability Repair Robustness to Combat Homologous but Heterogeneous Vulnerabilities**
+in *Proceedings of the 35th International Symposium on Software Testing and Analysis*, Oakland, California, United States (ISSTA'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+### Computer Engineering & Science (计算机工程与科学)
+Xiangke Liao, Yusong Tan, Zhouyang Jia, **Shangwen Wang**, Songlei Jian, and Bao Li.
+**Evolution and future prospects of fundamental software**
+in *Computer Engineering & Science (计算机工程与科学)*, (**CCF-T2**).
 ### FSE'26 ①
 Xin Peng, Bo Lin, Jing Wang, Xiaoling Li, Jun Ma, Jie Yu, Xiaoguang Mao, and **Shangwen Wang<sup>\*</sup>** (<sup>\*</sup>Corresponding author).
 **Three Heads Are Better Than One: A Multi-Perspective Reasoning Framework for Enhanced Vulnerability Detection**
@@ -59,7 +79,7 @@ in *Proceedings of the 48th IEEE/ACM International Conference on Software Engine
 ### JoS (软件学报)
 Yihao Qin, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Liqian Chen, Wanwei Liu, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Boosting Large Language Model-based Fault Localization with Parallel Search (基于并行搜索的大模型缺陷定位增强方法)**
-in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-T1</font>**).
 [[PDF]]()  [[bib]]()  
 ### NeurIPS'25
 Xiaopeng Li, **Shangwen Wang**, Shasha Li, Shezheng Song, Bin Ji, Ma Jun, and Jie Yu.
@@ -223,7 +243,7 @@ in *IEEE Transactions on Software Engineering* (**<font color="red">CCF-A</font>
 ### JoS (软件学报)
 Bo Lin, **Shangwen Wang**, and Xiaoguang Mao.
 **Automated Software Vulnerability Repair Based on Chain-of-Thought (基于思维链的软件漏洞自动修复技术研究)**
-in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-T1</font>**).
 [[PDF]](http://shangwenwang.github.io/files/JoS-24.pdf)  [[bib]]()  
 ### ICSE'24 ①
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Ge Li, Zhi Jin, Xiaoguang Mao, and Xiangke Liao (<sup>\*</sup>Corresponding author).
@@ -277,7 +297,7 @@ in *ACM Transactions on Software Engineering and Methodology* (**<font color="re
 ### JoS (软件学报)
 **Shangwen Wang**, Kui Liu, Bo Lin, Li Li, Jacques Klein, Tegawendé F. Bissyandé, and Xiaoguang Mao.
 **Fine-Grained Fault Localization Based on Pointer Neural Network (基于指针神经网络的细粒度缺陷定位研究)**
-in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-A</font>**).
+in *Journal of Software (软件学报)*, (JoS, **<font color="red">CCF-T1</font>**).
 [[PDF]](http://shangwenwang.github.io/files/JoS-23.pdf)  [[bib]]()  
 ### ICPC'23 ①
 Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, Dezun Dong, Haotian Wang, Shaomeng Cao, Kechi Zhang, and Zhi Jin (<sup>\*</sup>Corresponding author).
