@@ -6,6 +6,11 @@ author_profile: true
 
 # 2026
 
+### TOSEM
+Yating Zhang, Wei Dong, **Shangwen Wang<sup>\*</sup>**, Jing Zhang, Siyu Zhang, and Jiaxin Liu (<sup>\*</sup>Corresponding author).
+**Beyond Functional Correctness: A Knowledge-Enhanced Iterative Framework for Generating Criteria-Compliant Code**
+in *ACM Transactions on Software Engineering and Methodology* (**<font color="red">CCF-A</font>**), 2026.
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### TDSC
 Xin Peng, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Yihao Qin, Liqian Chen, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
 **Clara: A Cross-modal Learning Framework for Enhanced Vulnerability Detection**
