@@ -15,6 +15,8 @@ Currently, I am an assistant professor at National University of Defense Technol
 From May 2022 to July 2023, I was a visiting student at Southern University of Science and Technology (SUSTech), supervised by Prof. [Yepang Liu](https://yepangliu.github.io/).
 
 * NEWS!
+  * 2026.07: Our work on code generation acceleration got accepted by [ASE 2026](https://conf.researchr.org/home/ase-2026). Congrats again to Yinggang!
+  * 2026.07: Our work on model merging received the ACM SIGSOFT Distinguished Paper Award from FSE 2026! Congrats to Yinggang!
   * 2026.05: Our work on Criteria-Compliant Code Generation got accepted by ACM TOSEM! Congrats to Yating! 
   * 2026.04: Our works on vulnerability detection and repair got accepted by [ISSTA 2026](https://conf.researchr.org/home/issta-2026) and IEEE TDSC! Congrats to Xin Peng, the Little Bear Peng 🐻!
   * 2026.03: Our works on Vulnerability Detection, Model Merging, and Code Adaptation got accepted by [FSE 2026](https://conf.researchr.org/home/fse-2026)! Congrats to Xin, Yinggang, and Haoran!
