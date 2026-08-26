@@ -6,6 +6,12 @@ author_profile: true
 
 # 2026
 
+### ASE'26
+Yinggang Qiu, **Shangwen Wang<sup>\*</sup>**, Yihao Qin, Mingyang Geng, and Dezun Dong (<sup>\*</sup>Corresponding author).
+**It Takes Two to Tango: Accelerating Code Generation via Cache-Inspired Hierarchical Speculative Decoding**
+in *Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering*, Munich, Germany (ASE'26, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
 ### TOSEM
 Yating Zhang, Wei Dong, **Shangwen Wang<sup>\*</sup>**, Jing Zhang, Siyu Zhang, and Jiaxin Liu (<sup>\*</sup>Corresponding author).
 **Beyond Functional Correctness: A Knowledge-Enhanced Iterative Framework for Generating Criteria-Compliant Code**
@@ -37,7 +43,7 @@ Xin Peng, Bo Lin, Jing Wang, Xiaoling Li, Jun Ma, Jie Yu, Xiaoguang Mao, and **S
 in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
 **[Acceptance rate: ]**
 [[PDF]]()  [[bib]]() [[Artifacts]]()
-### FSE'26 ②
+### FSE'26 ② 🏆<font color="red">(ACM SIGSOFT Distinguished Paper Award!)</font>
 Yinggang Qiu, Yihao Qin, Mingyang Geng, **Shangwen Wang<sup>\*</sup>**, and Dezun Dong (<sup>\*</sup>Corresponding author).
 **One Size Does Fit All: Exploring Model Fusion for Software Engineering Tasks**
 in *the ACM International Conference on the Foundations of Software Engineering*, Montreal, Canada (FSE'26, **<font color="red">CCF-A</font>**).
