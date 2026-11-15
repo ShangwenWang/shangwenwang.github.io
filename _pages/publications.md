@@ -4,6 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2027
+
+### ICSE'27
+Kangchen Zhu, **Shangwen Wang<sup>\*</sup>**, Bo Lin, Xiaoling Li, Jun Ma, Jie Yu, and Xiaoguang Mao (<sup>\*</sup>Corresponding author).
+**From Relatedness to Necessity: Recovering Security Patches from Entangled Commits**
+in *Proceedings of the 49th IEEE/ACM International Conference on Software Engineering*, Dublin, Ireland (ICSE'27, **<font color="red">CCF-A</font>**).
+**[Acceptance rate: ]**
+[[PDF]]()  [[bib]]()  [[Artifacts]]()
+
 # 2026
 
 ### ASE'26
